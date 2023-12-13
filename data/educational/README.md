@@ -1,0 +1,2 @@
+## `education`
+This directory contains source files in CSV format, obtained for the study. It includes the source CSV files, and a PDF detailing the tables and metadata of the columns for each file in this directory. More specifically, the directory encompasses various datasets detailing the profiles of students enrolled in different educational institutions within the Valencian Community, such as official language schools, dance, music, and other centers.

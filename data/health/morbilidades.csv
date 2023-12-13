@@ -1,0 +1,1001 @@
+sip;FechaDiagnostico;codCie;descCie;VersionCIE;Categoría_CCS_Uni_Cod;Categoría_CCS_Uni_Des;Nivel_1_CCS_Multi_Cod;Nivel_1_CCS_Multi_Des;codServicio;descServicio;ambito;CCI;Sintomas;Complicaciones
+0;2021-05-29;V23.9;SUPERVISION EMBARAZO ALTO RIESGO.NEOM;CIE9;195;Otras complicaciones del nacimiento y puerperio que afectan al tratamiento de la madre;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+1;2000-11-24;Z51.11;Contacto para quimioterapia antineoplásica;CIE10;45;Quimioterapia y radioterapia;2;Neoplasias;HHEM;HEMATOLOGIA Y HEMOTERAPIA;HOS;1;0;0
+2;2011-05-03;J40;Bronquitis, no especificada como aguda o crónica;CIE10;127;Enfermedad pulmonar obstructiva crónica y bronquiectasia;8;Enfermedades del aparato respiratorio;CNAI;NEUMOLOGIA Y ALERGIA INFANTIL;CEX;0;0;0
+3;2017-07-12;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+4;2017-05-18;540.9;APENDICITIS AGUDA.SIN PERITONITIS;CIE9;142;Apendicitis y otras enfermedades relacionadas con el apéndice;9;Enfermedades del aparato digestivo;UPED;PEDIATRIA GENERAL;URG;0;0;0
+5;2009-05-20;459.81;INSUFICIENCIA VENOSA NEOM;CIE9;121;Otras enfermedades de las venas y vasos linfáticos;7;Enfermedades del aparato circulatorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+6;2007-01-06;530.81;REFLUJO ESOFAGICO;CIE9;138;Trastornos esofágicos;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+7;2011-10-24;E46;Malnutrición calórico-proteica no especificada;CIE10;52;Carencias nutricionales;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;CECR;ENDOCRINOLOGIA Y NUTRICION;CEX;1;0;0
+8;2017-03-24;625.6;INCONTINENCIA ESFUERZO FEMENINA;CIE9;175;Otros trastornos genitales femeninos;10;Enfermedades del sistema genitourinario;HURO;UROLOGIA;HOS;0;0;0
+9;2014-11-20;995.3;ALERGIA NEOM;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMUR;MEDICINA URGENCIA;URG;0;0;0
+10;2021-05-07;F82;Trastorno específico del desarrollo de la función motora;CIE10;654;Trastornos del desarrollo;5;Enfermedades Mentales;CRHB;REHABILITACION;CEX;1;0;0
+11;2021-01-29;719.46;DOLOR ARTICULACION.RODILLA;CIE9;204;Otros trastornos articulares no traumáticos;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+12;2016-01-08;M25.50;Dolor en articulación no especificada;CIE10;204;Otros trastornos articulares no traumáticos;13;Enfermedades del sistema osteomuscular y tejido conectivo;CURQ;U RAQUIS;CEX;0;0;0
+13;2015-09-15;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+14;2006-01-14;786.50;DOLOR TORAX.NEOM;CIE9;102;Dolor torácico no específicado;7;Enfermedades del aparato circulatorio;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+15;2020-11-20;G57.30;Lesión de nervio poplíteo externo, extremidad inferior no especificada;CIE10;95;Otros trastornos del sistema nervioso;6;Enfermedades del sistema nervioso y órganos de los sentidos;HCOV;HOSPITALIZACION COVID;HOS;1;0;0
+16;2013-02-13;R45.1;Inquietud y agitación;CIE10;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUR;MEDICINA URGENCIA;URG;1;0;0
+17;1997-04-07;V82.9;CRIBA ESPECIAL ENFERMEDAD.NEOM;CIE9;258;Otros cribajes por sospecha de enfermedad (se excluyen  trastornos mentales y enfermedades infecciosas);17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UCIR;CIR GENERAL Y DIGESTIVO;URG;0;0;0
+18;2014-04-07;I10;Hipertensión esencial (primaria);CIE10;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;CMA;1;0;0
+19;2013-12-09;919.4;PICADURA DE INSECTO SIN INFECCION-OTRO SITIO/MULTIPLES/NEOM;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+20;2016-07-27;919.8;OTRA/NEOM LES SUPERF/-SIN INFECCION-OTRO SITIO/MULTIPL/NEOM;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+21;2016-01-21;724.2;LUMBALGIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+22;2021-02-01;401.9;HIPERTENSION ESENCIAL.NEOM;CIE9;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;HCAR;CARDIOLOGIA;HOS;0;0;0
+23;2013-06-01;B97.29;Otros coronavirus como causa de enfermedades clasificadas bajo otro concepto;CIE10;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;UPED;PEDIATRIA GENERAL;URG;0;0;0
+24;2017-03-21;R53.1;Astenia;CIE10;252;Malestar general y fatiga;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMUR;MEDICINA URGENCIA;URG;0;0;0
+25;2014-07-23;487.1;GRIPE CON OTRAS MANIFESTACIONES RESPIRATORIAS;CIE9;123;Gripe;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+26;2005-02-26;E03.9;Hipotiroidismo, no especificado;CIE10;48;Trastornos tiroideos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HMUR;U DE CORTA ESTANCIA;HOS;1;0;0
+27;2015-06-05;574.10;COLELITIASIS.CON OTRA COLECISTITIS.SIN OBSTRUCCION;CIE9;149;Enfermedades de vías biliares;9;Enfermedades del aparato digestivo;HCDG;CIR DIGESTIVO;HOS;0;0;0
+28;2019-02-22;719.43;DOLOR ARTICULAR-ANTEBRAZO;CIE9;204;Otros trastornos articulares no traumáticos;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+29;2018-03-20;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+30;2018-05-09;599.0;INFECCION TRACTO URINARIO NEOM (&);CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;UMUR;MEDICINA URGENCIA;URG;0;0;0
+31;2016-05-15;481;NEUMONIA POR NEUMOCOCO (#);CIE9;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;HNEM;NEUMOLOGIA;HOS;0;0;0
+32;2019-03-26;525.61;MARGENES DE RESTAURACION ABIERTOS;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+33;2014-03-01;709.01;VITILIGO;CIE9;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+34;2019-03-01;780.6;FIEBRE Y OTROS TRASTORNOS FISIOLOGICOS DE LA REGULACION DE LA TEMPERATURA;CIE9;246;Fiebre de origen desconocido;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;1;0
+35;2017-01-11;J30.1;Rinitis alérgica debida a polen;CIE10;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;CALE;ALERGOLOGIA;CEX;1;0;0
+36;2020-07-14;466.0;BRONQUITIS AGUDA;CIE9;125;Bronquitis aguda;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+37;2018-11-14;Z79.899;Otra terapia prolongada (actual) con medicamentos;CIE10;257;Otra asistencia posterior;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HCOV;HOSPITALIZACION COVID;HOS;0;0;0
+38;2016-04-01;723.1;CERVICALGIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+39;2019-02-07;784.2;BULTO O MASA CABEZA Y CUELLO;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUR;MEDICINA URGENCIA;URG;0;0;0
+40;2017-04-01;I83.91;Venas varicosas asintomáticas de extremidad inferior derecha;CIE10;119;Venas varicosas de las extremidades inferiores;7;Enfermedades del aparato circulatorio;HCVA;ANGIOLOGIA Y CIR VASCULAR;CMA;0;0;0
+41;2013-10-14;465.8;INFECCION VIA AEREA SUPERIOR AGUDA.OTRA (&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+42;2016-04-12;I10;Hipertensión esencial (primaria);CIE10;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;HCOV;HOSPITALIZACION COVID;HOS;1;0;0
+43;2017-01-11;462;FARINGITIS AGUDA;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+44;2018-04-05;789.0;DOLOR ABDOMINAL;CIE9;251;Dolor abdominal;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+45;2018-09-28;606.9;ESTERILIDAD MASCULINA NEOM;CIE9;166;Otros trastornos genitales masculinos;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+46;2021-06-15;520.6;ENFERMEDAD ERUPCION DIENTE;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;CCMX;CIR MAXILOFACIAL;CEX;0;0;0
+47;2005-11-28;I12.9;Enfermedad renal crónica hipertensiva con enfermedad renal crónica en estadio 1 a 4 ó con enfermedad renal crónica no especificada;CIE10;99;Hipertensión con complicaciones e hipertensión secundaria;7;Enfermedades del aparato circulatorio;HNEF;NEFROLOGIA;HOS;1;0;0
+48;2014-12-09;518.4;EDEMA PULMON AGUDO NEOM;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+49;2016-07-08;574.20;COLELITIASIS.SIN COLECISTITIS.SIN OBSTRUCCION;CIE9;149;Enfermedades de vías biliares;9;Enfermedades del aparato digestivo;HUHP;CIR HEPATOBILIOPANCREATICA;CEX;0;0;0
+50;2014-02-22;D64.9;Anemia, no especificada;CIE10;59;Anemias carenciales y otras;4;Enfermedades de la sangre y órganos hematopoyéticos;CUTP;U TRASPLANTE PULMONAR;CEX;0;0;0
+51;2020-11-27;I10;Hipertensión esencial (primaria);CIE10;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;HOS;1;0;0
+52;2015-12-21;N99.61;Hemorragia y hematoma intraoperatorios en un órgano o estructura del aparato genitourinario que complica un procedimiento del aparato genitourinario;CIE10;238;Complicaciones de procedimientos quirúrgicos o atención sanitaria;16;Lesiónes e intoxicaciones;HTRE;TRASPLANTE RENAL;HOS;0;0;1
+53;2017-09-01;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+54;2013-06-05;250.51;DIABETES MELLITUS.CON ALTERACION OJO.TIPO I;CIE9;50;Diabetes mellitus con complicaciones;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;CMA;0;0;0
+55;2020-11-18;M17.12;Artrosis primaria unilateral, rodilla izquierda;CIE10;203;Osteoartritis;13;Enfermedades del sistema osteomuscular y tejido conectivo;CMIF;U MIEMBRO INFERIOR;CEX;1;0;0
+56;2018-12-13;604.90;ORQUITIS Y EPIDIDIMITIS NEOM;CIE9;165;Afecciones inflamatorias de los órganos genitales masculinos;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+57;2015-01-09;N17.8;Otros tipos de fallo renal agudo;CIE10;157;Insuficiencia renal aguda y no especificada;10;Enfermedades del sistema genitourinario;HCOV;HOSPITALIZACION COVID;HOS;0;0;0
+58;2018-08-08;784.0;CEFALEA;CIE9;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;1;0
+59;2010-12-09;964.2;ENVENENAMIENTO POR ANTICOAGULANTE;CIE9;242;Intoxicación por otros medicamentos y drogas;16;Lesiónes e intoxicaciones;HMUR;U DE CORTA ESTANCIA;HOS;0;0;0
+60;2018-07-27;H00.19;Chalazión, ojo no especificado, párpado no especificado;CIE10;91;Otros trastornos del ojo;6;Enfermedades del sistema nervioso y órganos de los sentidos;COFI;OFTALMOLOGIA INFANTIL;CEX;0;0;0
+61;2018-04-03;K76.6;Hipertensión portal;CIE10;151;Otras hepatopatías;9;Enfermedades del aparato digestivo;CMDH;HEPATOLOGIA;CEX;1;0;0
+62;2021-05-24;401.1;HTA BENIGNA;CIE9;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+63;2016-05-02;564.0;ESTREÑIMIENTO;CIE9;155;Otros trastornos del aparato digestivo;9;Enfermedades del aparato digestivo;UPED;PEDIATRIA GENERAL;URG;0;0;0
+64;2020-06-11;724.2;LUMBALGIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;CTRA;U TRAUMATOLOGIA/FRACTURAS;CEX;0;0;0
+65;2014-08-25;V07.8;NECESIDAD PROFILAXIS OTRA;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HHEM;HEMATOLOGIA Y HEMOTERAPIA;HOS;0;0;0
+66;2018-02-28;250.00;DIABETES M. SIN MENCION COMPL. TIPO II O NO ESP. NO ESTABLECIDA COMO INCONTROLADA;CIE9;49;Diabetes mellitus sin complicaciones;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+67;2020-10-12;C90.30;Plasmocitoma solitario, sin haber alcanzado remisión;CIE10;40;Mieloma múltiple;2;Neoplasias;CXVI;RXD VASCULAR INTERVENCIONISTA;HOS;1;0;0
+68;2016-09-23;V20.2;CONTROL SALUD RUTINARIO DEL BEBE O NIÑO;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+69;2002-09-20;462;FARINGITIS AGUDA;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+70;2017-05-26;780.6;FIEBRE Y OTROS TRASTORNOS FISIOLOGICOS DE LA REGULACION DE L;CIE9;246;Fiebre de origen desconocido;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UPED;PEDIATRIA GENERAL;URG;0;1;0
+71;2019-02-20;820.8;FRACTURA CERRADA FEMUR CUELLO NEOM;CIE9;226;Fractura de cuello del fémur (cadera);16;Lesiónes e intoxicaciones;HREA;REANIMACION;HOS;0;0;0
+72;2017-01-16;250.00;DIABETES M. SIN MENCION COMPL. TIPO II O NO ESP. NO ESTABLECIDA COMO INCONTROLADA;CIE9;49;Diabetes mellitus sin complicaciones;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+73;2011-01-20;428.0;FALLO CARDIACO.CONGESTIVO NEOM;CIE9;108;Insuficiencia cardíaca congestiva no hipertensiva;7;Enfermedades del aparato circulatorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+74;2018-06-17;737.30;ESCOLIOSIS O CIFOESCOLIOSIS IDIOPATICA;CIE9;212;Otra enfermedad ósea o deformidad osteomuscular;13;Enfermedades del sistema osteomuscular y tejido conectivo;CURQ;U RAQUIS;CEX;0;0;0
+75;2017-09-30;646.63;INFECCION GENITOURINARIA EMBARAZO.ANTEPARTO;CIE9;181;Otras complicaciones del embarazo;11;Complicaciones del embarazo, parto y puerperio;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0
+76;2018-11-29;R42;Mareo y desvanecimiento;CIE10;93;Afecciones asociadas con mareo o vértigo;6;Enfermedades del sistema nervioso y órganos de los sentidos;UMUR;MEDICINA URGENCIA;URG;0;0;0
+77;2016-03-13;715.15;OSTEOARTROSIS LOCALIZADA PRIMARIA.CADERA;CIE9;203;Osteoartritis;13;Enfermedades del sistema osteomuscular y tejido conectivo;ECOT;CIR ORTOPEDICA TRAUMA CESP;CEX;0;0;0
+78;2020-06-24;625.8;SINTOMA ASOCIADO A ORGANO GENITAL FEMENINO.OTRO;CIE9;175;Otros trastornos genitales femeninos;10;Enfermedades del sistema genitourinario;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0
+79;2018-03-04;Z11.59;Contacto para cribado de otras enfermedades víricas;CIE10;10;Inmunizaciones y cribaje de enfermedades infecciosas;1;Enfermedad Infecciosa y parasitaria;HECR;ENDOCRINOLOGIA Y NUTRICION;HOS;0;0;0
+80;2017-05-19;K59.00;Estreñimiento, no especificado;CIE10;155;Otros trastornos del aparato digestivo;9;Enfermedades del aparato digestivo;HMUR;U DE CORTA ESTANCIA;HOS;0;0;0
+81;2016-08-29;522.5;ABSCESO PERIAPICAL SIN SENO;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+82;2018-09-07;N20.0;Cálculo del riñón;CIE10;160;Cálculo de vías urinarias;10;Enfermedades del sistema genitourinario;CLIT;LITOTRICIA;CEX;0;0;0
+83;2018-07-20;708.9;URTICARIA.NEOM;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+84;2016-02-11;784.0;CEFALEA;CIE9;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;1;0
+85;2017-06-19;883.0;HERIDA ABIERTA DE DEDO(S) MANO-SIN COMPLICACION;CIE9;236;Heridas abiertas de extremidades;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+86;2017-07-12;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+87;2020-01-24;E78.5;Hiperlipidemia, no especificada;CIE10;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HOFT;OFTALMOLOGIA;CMA;1;0;0
+88;2020-03-11;V82.9;CRIBA ESPECIAL ENFERMEDAD.NEOM;CIE9;258;Otros cribajes por sospecha de enfermedad (se excluyen  trastornos mentales y enfermedades infecciosas);17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMUR;MEDICINA URGENCIA;URG;0;0;0
+89;2018-02-20;463;AMIGDALITIS AGUDA;CIE9;124;Amigdalitis aguda y crónica;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+90;2017-01-26;728.88;RABDOMIOLISIS;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+91;2018-10-05;723.1;CERVICALGIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+92;2015-05-11;309.9;REACCION DE ADAPTACION NO ESPECIFICADA;CIE9;650;Trastornos adaptativos;5;Enfermedades Mentales;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+93;2014-10-02;788.3;INCONTINENCIA URINARIA;CIE9;163;Síntomas genitourinarios y afecciones mal definidas;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+94;2005-03-18;R29.818;Otros síntomas y signos que afectan al sistema nervioso;CIE10;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;ENER;NEUROLOGIA CESP;CEX;0;0;0
+95;2016-12-13;465.9;INFECCION VIA AEREA SUPERIOR AGUDA.NEOM (&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;HPED;PEDIATRIA GENERAL;HOS;0;0;0
+96;2021-01-08;959.2;TRAUMATISMO HOMBRO Y BRAZO OTRO Y NEOM;CIE9;244;Otras lesiones y afecciones debidas a causas externas;16;Lesiónes e intoxicaciones;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+97;2014-05-07;272.2;HIPERLIPIDEMIAS MIXTAS;CIE9;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+98;2014-06-10;780.99;SINTOMA GENERAL.OTRO;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUR;MEDICINA URGENCIA;URG;0;0;0
+99;2019-05-06;079.99;INFECCION VIRAL INESPECIFICA;CIE9;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+100;2019-01-31;791.0;PROTEINURIA;CIE9;163;Síntomas genitourinarios y afecciones mal definidas;10;Enfermedades del sistema genitourinario;CNEF;NEFROLOGIA;CEX;0;0;0
+101;2017-10-19;J18.9;Neumonía, microorganismo no especificado;CIE10;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;HCOV;HOSPITALIZACION COVID;HOS;0;0;0
+102;2018-10-26;733.90;ENFERMEDAD HUESO Y CARTILAGO NEOM;CIE9;212;Otra enfermedad ósea o deformidad osteomuscular;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+103;2016-07-05;079.9;INFECCION VIRAL O POR CLAMIDIA NEOM;CIE9;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;UPED;PEDIATRIA GENERAL;URG;0;0;0
+104;2017-01-25;998.12;HEMATOMA QUE COMPLICA PROCEDIMIENTO;CIE9;238;Complicaciones de procedimientos quirúrgicos o atención sanitaria;16;Lesiónes e intoxicaciones;HNCG;NEUROCIRUGIA;HOS;0;0;1
+105;2018-10-17;790.4;ELEVACION TRANSAMINASA O LACTODESHIDROGENASA NEOM;CIE9;151;Otras hepatopatías;9;Enfermedades del aparato digestivo;CREU;REUMATOLOGIA;CEX;0;0;0
+106;2014-06-16;N63;Masa o bulto no especificado de mama;CIE10;167;Afecciones no malignas de la mama;10;Enfermedades del sistema genitourinario;CUMM;U FUNCIONAL MAMA;CEX;0;0;0
+107;2015-02-12;T15.10XA;Cuerpo extraño en saco conjuntival, ojo no especificado, contacto inicial;CIE10;244;Otras lesiones y afecciones debidas a causas externas;16;Lesiónes e intoxicaciones;UOFT;OFTALMOLOGIA;URG;0;0;0
+108;2019-11-18;780.2;SINCOPE Y COLAPSO;CIE9;245;Síncope;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UPED;PEDIATRIA GENERAL;URG;0;1;0
+109;2019-03-11;J12.89;Otros tipos de neumonía vírica;CIE10;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;HMIN;MEDICINA INTERNA;HOS;0;0;0
+110;2017-06-25;389.9;PERDIDA DEL OIDO NEOM;CIE9;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+111;2018-07-09;372.30;CONJUNTIVITIS NEOM;CIE9;90;Inflamación e infección del ojo (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;UOFT;OFTALMOLOGIA;URG;0;0;0
+112;2017-05-17;Z20.828;Contacto y (sospecha de) exposición a otras enfermedades víricas transmisibles;CIE10;10;Inmunizaciones y cribaje de enfermedades infecciosas;1;Enfermedad Infecciosa y parasitaria;UMUR;MEDICINA URGENCIA;URG;0;0;0
+113;2018-04-05;J12.89;Otros tipos de neumonía vírica;CIE10;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;HCOV;HOSPITALIZACION COVID;HOS;0;0;0
+114;2016-03-14;599.0;INFECCION DE VIAS URINARIAS SITIO NEOM;CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+115;2010-02-15;784.0;CEFALEA;CIE9;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;1;0
+116;2018-12-17;727.49;OTRO GANGLION Y QUISTE SINOVIA, TENDON Y BOLSA;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+117;2016-10-13;V20.1;CONTROL SALUD-OTRO BEBE O NIÑO SANO QUE RECIBE CUIDADOS;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+118;2013-08-10;789.0;DOLOR ABDOMINAL;CIE9;251;Dolor abdominal;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+119;2019-05-30;691.8;OTROS DERMATITIS ATOPICA Y ESTADOS RELACIONADOS;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+120;2013-04-23;924.8;CONTUSION MULTIPLE NCOC;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+121;2012-06-01;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+122;2019-10-16;Z67.10;Grupo sanguíneo A, Rh positivo;CIE10;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HOBS;OBSTETRICIA;HOS;0;0;0
+123;2020-03-18;786.50;DOLOR TORACICO NO ESPECIFICADO;CIE9;102;Dolor torácico no específicado;7;Enfermedades del aparato circulatorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+124;2017-12-04;715.36;OSTEOARTROSIS LOCALIZADA SIN ESPECIFICAR-PIERNA;CIE9;203;Osteoartritis;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+125;2021-03-23;V72.31;RECONOCIMIENTO GINECOLOGICO RUTINARIO;CIE9;256;Examen y evaluación médica;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+126;2017-05-16;813.42;FRACTURA CERRADA RADIO EXTREMO INFERIOR OTRA;CIE9;229;Fractura de miembro superior;16;Lesiónes e intoxicaciones;UOTI;CIR ORTOPEDICA Y TRAUMA INFANT;URG;0;0;0
+127;2018-03-05;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+128;2017-01-06;367.4;PRESBIOPIA O PRESBICIA;CIE9;89;Ceguera y defectos de la visión;6;Enfermedades del sistema nervioso y órganos de los sentidos;EOFT;OFTALMOLOGIA CESP;CEX;0;0;0
+129;2020-11-24;944.20;QUEMADURA SEGUNDO GRADO MANO NEOM;CIE9;240;Quemaduras;16;Lesiónes e intoxicaciones;UQUE;QUEMADOS;URG;0;0;0
+130;2016-02-16;571.8;OTRAS ENFERM. HEPATICA CRONICA NO ALCOHOLICA;CIE9;151;Otras hepatopatías;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+131;2017-09-20;614.1;SALPINGITIS Y OOFORITIS CRONICA;CIE9;168;Enfermedades inflamatorias de los órganos femeninos pelvicos;10;Enfermedades del sistema genitourinario;HGIN;GINECOLOGIA;HOS;0;0;0
+132;2020-11-11;719.46;DOLOR ARTICULAR-PIERNA;CIE9;204;Otros trastornos articulares no traumáticos;13;Enfermedades del sistema osteomuscular y tejido conectivo;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+133;2017-03-09;413.9;ANGOR PECTORIS.OTRO Y NEOM;CIE9;101;Aterosclerosis coronaria y otras cardiopatías;7;Enfermedades del aparato circulatorio;CCAR;CARDIOLOGIA;CEX;0;0;0
+134;2013-02-22;225.2;NEOPLASIA BENIGNA MENINGE CEREBRO;CIE9;47;Otras neoplasias benigna y neoplasias benigna no especificadas;2;Neoplasias;ENER;NEUROLOGIA CESP;CEX;0;0;0
+135;2015-09-03;R50.9;Fiebre, no especificada;CIE10;246;Fiebre de origen desconocido;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HUEI;U ENFERMEDADES INFECCIOSAS;HOS;0;1;0
+136;2016-10-18;717.7;CONDROMALACIA ROTULA;CIE9;225;Trastornos articulares y luxaciones relacionadas con traumatismo;16;Lesiónes e intoxicaciones;CCOT;CIR ORTOPEDICA TRAUMA;CEX;0;0;0
+137;2017-10-20;009.1;COLITIS, ENTERITIS Y GASTROENTERITIS ORIGEN INFECCIOSO;CIE9;135;Infección intestinal;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+138;2020-06-21;787.91;DIARREA;CIE9;155;Otros trastornos del aparato digestivo;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;1;0
+139;2009-02-22;768.6;ASFIXIA LEVE O MODERADA AL NACER;CIE9;220;Hipoxia intrauterina y asfixia en el nacimiento;15;Determinadas afecciones que se originan en el período perinatal;HFAR;FARMACIA;HOS;0;0;0
+140;2016-07-24;719.45;DOLOR ARTICULACION.CADERA;CIE9;204;Otros trastornos articulares no traumáticos;13;Enfermedades del sistema osteomuscular y tejido conectivo;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+141;2018-12-26;280.9;ANEMIA POR CARENCIA DE HIERRO NO ESPECIFICADA;CIE9;59;Anemias carenciales y otras;4;Enfermedades de la sangre y órganos hematopoyéticos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+142;2019-09-13;H11.149;Xerosis conjuntival no especificada, ojo no especificado;CIE10;91;Otros trastornos del ojo;6;Enfermedades del sistema nervioso y órganos de los sentidos;EOFT;OFTALMOLOGIA CESP;CEX;0;0;0
+143;2018-11-05;463;AMIGDALITIS AGUDA;CIE9;124;Amigdalitis aguda y crónica;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+144;2010-07-14;462;FARINGITIS AGUDA;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+145;2015-10-05;599.0;INFECCION TRACTO URINARIO NEOM (&);CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0
+146;2020-08-18;V45.89;ESTADO POSTQUIRURGICO.OTRO;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HCAI;CARDIOLOGIA INFANTIL;HOS;0;0;0
+147;2005-10-11;R91.8;Otros resultados inespecíficos anormales del campo pulmonar;CIE10;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;CNME;U ENDOSCOPIAS RESPIRATORIAS;CEX;0;0;0
+148;2017-02-08;V71.89;OBSERVACION PRESUNTA ENFERMEDAD.OTRA;CIE9;258;Otros cribajes por sospecha de enfermedad (se excluyen  trastornos mentales y enfermedades infecciosas);17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0
+149;2020-01-14;271.2;INTOLERANCIA HEREDITARIA FRUCTOSA (&);CIE9;58;Otros trastornos nutricionales, endocrinos y metabólicos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;CNAI;NEUMOLOGIA Y ALERGIA INFANTIL;CEX;0;0;0
+150;2014-09-11;B34.8;Otras infecciones virales, de localización no especificada;CIE10;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;HOBS;OBSTETRICIA;HOS;0;0;0
+151;2003-09-28;706.1;OTROS ACNES;CIE9;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+152;2014-05-28;491.9;BRONQUITIS CRONICA.NEOM;CIE9;127;Enfermedad pulmonar obstructiva crónica y bronquiectasia;8;Enfermedades del aparato respiratorio;HCMX;CIR MAXILOFACIAL;HOS;0;0;0
+153;2016-04-04;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+154;2016-02-16;M23.304;Otros trastornos de menisco interno, parte no especificada, rodilla izquierda;CIE10;225;Trastornos articulares y luxaciones relacionadas con traumatismo;16;Lesiónes e intoxicaciones;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;CMA;1;0;0
+155;2019-06-13;A41.51;Sepsis por Escherichia coli [E. coli];CIE10;2;Septicemia (excepto en trabajo de parto);1;Enfermedad Infecciosa y parasitaria;HMIN;MEDICINA INTERNA;HOS;0;0;0
+156;2012-04-25;E11.621;Diabetes mellitus tipo 2 con úlcera en pie;CIE10;50;Diabetes mellitus con complicaciones;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;UMUR;MEDICINA URGENCIA;URG;1;0;0
+157;2016-11-08;Z95.820;Estado angioplastia vascular periférico con implantes e injertos;CIE10;117;Otra enfermedad circulatoria;7;Enfermedades del aparato circulatorio;HMIN;MEDICINA INTERNA;HOS;1;0;0
+158;2017-09-22;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+159;2008-07-03;E78.5;Hiperlipidemia, no especificada;CIE10;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;CXVI;RXD VASCULAR INTERVENCIONISTA;HOS;1;0;0
+160;2014-07-14;M25.569;Dolor en rodilla no especificada;CIE10;204;Otros trastornos articulares no traumáticos;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+161;2016-11-14;V71.89;OBSERVACION PRESUNTA ENFERMEDAD.OTRA;CIE9;258;Otros cribajes por sospecha de enfermedad (se excluyen  trastornos mentales y enfermedades infecciosas);17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0
+162;2016-02-06;Z87.891;Historia personal de dependencia a nicotina;CIE10;663;Códigos de cribaje, historia de salud mental y abuso de sustancias psicotrópicas;5;Enfermedades Mentales;HCOV;HOSPITALIZACION COVID;HOS;0;0;0
+163;2018-09-02;282.49;TALASEMIA.OTRA;CIE9;59;Anemias carenciales y otras;4;Enfermedades de la sangre y órganos hematopoyéticos;HNER;NEUROLOGIA;HOS;0;0;0
+164;2018-03-17;389.9;SORDERA.NEOM;CIE9;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;CORL;OTORRINOLARINGOLOGIA;CEX;0;0;0
+165;2019-02-05;372.14;CONJUNTIVITIS CRONICA.ALERGICA OTRA;CIE9;90;Inflamación e infección del ojo (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;CALE;ALERGOLOGIA;CEX;0;0;0
+166;2014-06-18;Z85.038;Historia personal de otra neoplasia maligna de intestino grueso;CIE10;14;Cáncer del colon;2;Neoplasias;HCAR;CARDIOLOGIA;HOS;0;0;0
+167;2020-12-28;726.65;BURSITIS PRERROTULIANA;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+168;2016-06-19;691.0;EXANTEMA DE LOS PAÑALES;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+169;2017-09-06;J98.8;Otros trastornos respiratorios especificados;CIE10;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;HMDG;GASTROENTEROLOGIA;HOS;0;0;0
+170;2020-10-26;463;AMIGDALITIS AGUDA;CIE9;124;Amigdalitis aguda y crónica;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+171;2015-03-25;724.5;DOLOR ESPALDA NEOM;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;UOTI;CIR ORTOPEDICA Y TRAUMA INFANT;URG;0;0;0
+172;2016-08-12;V27.0;PARTO UNICO NACIDO VIVO;CIE9;196;Embarazo y parto normales;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+173;2014-06-14;K44.9;Hernia diafragmática sin obstrucción ni gangrena;CIE10;143;Hernia abdominal;9;Enfermedades del aparato digestivo;HUEM;CIR ENDOCRINOMETABOLICA;HOS;0;0;0
+174;2017-06-26;268.9;CARENCIA DE VITAMINA D NO ESPECIFICADA;CIE9;52;Carencias nutricionales;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+175;2018-07-21;I26.99;Otra embolia pulmonar sin cor pulmonale agudo;CIE10;103;Enfermedad cardiopulmonar;7;Enfermedades del aparato circulatorio;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0
+176;2013-10-07;472.1;FARINGITIS CRONICA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+177;2013-01-23;I48.0;Fibrilación paroxística auricular;CIE10;106;Disritmias cardíacas;7;Enfermedades del aparato circulatorio;HCOV;HOSPITALIZACION COVID;HOS;1;0;0
+178;2019-11-20;491.20;BRONQUITIS CRONICA.OBSTRUCTIVA.SIN AGUDIZACION;CIE9;127;Enfermedad pulmonar obstructiva crónica y bronquiectasia;8;Enfermedades del aparato respiratorio;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;HOS;0;0;0
+179;2018-10-15;528.2;AFTAS BUCALES;CIE9;137;"Enfermedades de la boca; excluyendo las dentales";9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+180;2010-09-10;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+181;2014-02-03;306.4;DISFUNCION GASTROINTESTINAL CON ORIGEN MENTAL;CIE9;670;Trastornos mentales misceláneos;5;Enfermedades Mentales;HCGI;CIR PEDIATRICA;HOS;0;0;0
+182;2021-03-09;345.10;EPILEPSIA CONVULSIVA GENERALIZADA.NO INCURABLE;CIE9;83;Epilepsia y convulsiones;6;Enfermedades del sistema nervioso y órganos de los sentidos;UMUR;MEDICINA URGENCIA;URG;0;0;0
+183;2020-01-09;477.9;RINITIS ALERGICA DE CAUSA NO ESPECIFICADA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+184;2019-10-10;276.5;TRASTORNO EQUIL.OSMOT./ELECTROLIT./ACIDO-BASICO-DISMINUCION DE VOLUMEN;CIE9;55;Trastornos de fluidos y electrólitos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+185;2018-09-14;R60.0;Edema localizado;CIE10;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUR;MEDICINA URGENCIA;URG;0;0;0
+186;2011-05-09;353.8;OTROS TRASTORNOS DE RAICES Y PLEXOS NERVIOSOS;CIE9;95;Otros trastornos del sistema nervioso;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+187;2019-05-27;650;PARTO NORMAL TOTALMENTE (#);CIE9;196;Embarazo y parto normales;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+188;2020-04-30;V58.67;MEDICACION LARGA DURACION.INSULINA;CIE9;257;Otra asistencia posterior;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HMUR;U DE CORTA ESTANCIA;HOS;0;0;0
+189;2015-03-20;553.1;HERNIA UMBILICAL SIN OBSTRUCCION NI GANGRENA;CIE9;143;Hernia abdominal;9;Enfermedades del aparato digestivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+190;2020-06-22;462;FARINGITIS AGUDA (#)(&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+191;2016-10-05;Z99.89;Dependencia de otras máquinas y dispositivos de apoyo;CIE10;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HCOV;HOSPITALIZACION COVID;HOS;1;0;0
+192;2014-04-25;536.8;DISPEPSIA Y TRASTORNO FUNCIONAL ESTOMAGO.OTRO;CIE9;141;Otros trastornos del estómago y duodeno;9;Enfermedades del aparato digestivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+193;2021-08-05;278.00;OBESIDAD INESPECIFICA;CIE9;58;Otros trastornos nutricionales, endocrinos y metabólicos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+194;2014-01-09;J12.89;Otros tipos de neumonía vírica;CIE10;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+195;2017-08-07;784.1;DOLOR GARGANTA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;1;0
+196;2020-12-17;696.1;PSORIASIS.OTRA Y NEOM;CIE9;198;Otra afección inflamatoria de la piel;12;Enfermedades de la piel y tejido subcutáneo;CREU;REUMATOLOGIA;CEX;0;0;0
+197;2015-01-21;E928.9;ACCIDENTE POR CAUSA AMBIENTAL.NEOM;CIE9;2620;Códigos E: No especificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+198;2011-11-13;463;AMIGDALITIS AGUDA;CIE9;124;Amigdalitis aguda y crónica;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+199;2018-01-20;N18.6;Enfermedad renal en estadio terminal;CIE10;158;Insuficiencia renal crónica;10;Enfermedades del sistema genitourinario;HCOV;HOSPITALIZACION COVID;HOS;1;0;0
+200;2007-03-16;279.3;INMUNODEFICIENCIA NEOM;CIE9;57;Trastornos de inmunidad;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;CGIN;GINECOLOGIA;CEX;0;0;0
+201;2019-01-15;465.8;INFECCION VIA AEREA SUPERIOR AGUDA.OTRA (&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+202;2021-07-18;715.28;OSTEOARTROSIS LOCALIZADA SECUNDARIA.OTRA;CIE9;203;Osteoartritis;13;Enfermedades del sistema osteomuscular y tejido conectivo;CMIN;MEDICINA INTERNA;CEX;0;0;0
+203;2017-05-31;K56.0;Íleo paralítico;CIE10;145;Obstrucción intestinal sin hernia;9;Enfermedades del aparato digestivo;HONC;ONCOLOGIA MEDICA;HOS;0;0;0
+204;2018-09-12;355.8;MONONEURITIS MIEMBRO INFERIOR NEOM;CIE9;95;Otros trastornos del sistema nervioso;6;Enfermedades del sistema nervioso y órganos de los sentidos;CGIN;GINECOLOGIA;CEX;0;0;0
+205;2017-12-27;959.01;TRAUMATISMO CABEZA NEOM;CIE9;244;Otras lesiones y afecciones debidas a causas externas;16;Lesiónes e intoxicaciones;UPED;PEDIATRIA GENERAL;URG;0;0;0
+206;2018-10-08;H15.009;Escleritis no especificada, ojo no especificado;CIE10;90;Inflamación e infección del ojo (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;UMUR;MEDICINA URGENCIA;URG;0;0;0
+207;2004-06-19;J12.89;Otros tipos de neumonía vírica;CIE10;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;HFAR;FARMACIA;HOS;0;0;0
+208;2019-04-04;780.6;FIEBRE Y OTROS TRASTORNOS FISIOLOGICOS DE LA REGULACION DE LA TEMPERATURA;CIE9;246;Fiebre de origen desconocido;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;1;0
+209;2019-06-11;J30.9;Rinitis alérgica, no especificada;CIE10;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;CNAI;NEUMOLOGIA Y ALERGIA INFANTIL;CEX;1;0;0
+210;2018-09-19;472.0;RINITIS CRONICA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;1;0
+211;2017-08-02;Z79.01;Uso prolongado (actual) de anticoagulantes;CIE10;257;Otra asistencia posterior;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HMIN;MEDICINA INTERNA;HOS;0;0;0
+212;2016-12-20;N32.81;Vejiga hiperactiva;CIE10;162;Otras enfermedades de la vejiga urinaria y uretra;10;Enfermedades del sistema genitourinario;CURO;UROLOGIA;CEX;1;0;0
+213;2016-05-26;H66.93;Otitis media, no especificada, bilateral;CIE10;92;Otitis media y afecciones relacionadas;6;Enfermedades del sistema nervioso y órganos de los sentidos;CORL;OTORRINOLARINGOLOGIA;CEX;0;0;0
+214;2017-04-13;070.54;HEPATITIS POR VIRUS C SIN COMA HEPATICO CRONICA;CIE9;6;Hepatitis;1;Enfermedad Infecciosa y parasitaria;CMDH;HEPATOLOGIA;CEX;0;0;0
+215;2019-12-29;009.0;COLITIS, ENTERITIS Y GASTROENTERITIS INFECCIOSAS;CIE9;135;Infección intestinal;9;Enfermedades del aparato digestivo;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+216;2017-08-31;J96.92;Insuficiencia respiratoria no especificada, con hipercapnia;CIE10;131;Fallo, insuficiencia y paro respiratorio (en el adulto);8;Enfermedades del aparato respiratorio;HMEL;CH ERNEST LLUCH;HOS;0;0;0
+217;2015-10-13;V42.0;RIÑON SUSTITUIDO POR TRASPLANTE;CIE9;158;Insuficiencia renal crónica;10;Enfermedades del sistema genitourinario;CTRE;TRASPLANTE RENAL;CEX;0;0;0
+218;2005-09-14;Z34.90;Contacto para supervisión del embarazo normal, no especificado, trimestre no especificado;CIE10;196;Embarazo y parto normales;11;Complicaciones del embarazo, parto y puerperio;EOBS;OBSTETRICIA CESP;CEX;0;0;0
+219;2016-02-29;Z3A.38;38 semanas de gestación;CIE10;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HOBS;OBSTETRICIA;HOS;0;0;0
+220;2017-03-14;345.90;EPILEPSIA NEOM.NO INCURABLE;CIE9;83;Epilepsia y convulsiones;6;Enfermedades del sistema nervioso y órganos de los sentidos;HNER;NEUROLOGIA;HOS;0;0;0
+221;2010-12-20;B02.9;Herpes zóster sin complicaciones;CIE10;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;CDER;DERMATOLOGIA;CEX;0;0;0
+222;2019-02-19;607.9;ALTERACION DE PENE NEOM;CIE9;166;Otros trastornos genitales masculinos;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+223;2018-10-01;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+224;2018-07-13;466.0;BRONQUITIS AGUDA;CIE9;125;Bronquitis aguda;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+225;2018-05-08;372.14;CONJUNTIVITIS CRONICA.ALERGICA OTRA;CIE9;90;Inflamación e infección del ojo (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;CNAI;NEUMOLOGIA Y ALERGIA INFANTIL;CEX;0;0;0
+226;2020-10-26;365.9;GLAUCOMA.NEOM;CIE9;88;Glaucoma;6;Enfermedades del sistema nervioso y órganos de los sentidos;COFT;OFTALMOLOGIA;CEX;0;0;0
+227;2019-02-15;658.13;ROTURA PREMATURA MEMBRANA.ANTEPARTO;CIE9;191;Polihidramnios y otros problemas de la cavidad amniótica;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+228;2018-02-19;V72.31;RECONOCIMIENTO GINECOLOGICO RUTINARIO;CIE9;256;Examen y evaluación médica;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+229;2016-12-05;P05.06;Recién nacido de bajo peso para la edad gestacional, 1500-1749 gramos;CIE10;219;Gestación de corta duración, bajo peso al nacer y retraso del crecimiento fetal;15;Determinadas afecciones que se originan en el período perinatal;HNEN;NEONATOLOGIA;HOS;0;0;0
+230;2007-11-09;617.1;ENDOMETRIOSIS.OVARIO;CIE9;169;Endometriosis;10;Enfermedades del sistema genitourinario;CGIN;GINECOLOGIA;CEX;0;0;0
+231;2020-10-16;626.2;MENSTRUACION EXCESIVA O FRECUENTE;CIE9;171;Trastornos menstruales;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+232;2016-06-29;726.32;EPICONDILITIS LATERAL;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+233;2020-10-26;784.49;ALTERACION VOZ.OTRA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;CORI;OTORRINO INFANTIL;CEX;0;0;0
+234;2018-09-13;M79.7;Fibromialgia;CIE10;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+235;2014-03-10;789.06;DOLOR ABDOMEN.EPIGASTRIO;CIE9;251;Dolor abdominal;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;URGE;URGENCIAS;URG;0;0;0
+236;2020-02-24;799.9;CAUSA MORBILIDAD Y MORTALIDAD DESCONOCIDA.OTRA;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UPED;PEDIATRIA GENERAL;URG;0;0;0
+237;2018-09-26;373.11;ORZUELO EXTERNO;CIE9;90;Inflamación e infección del ojo (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;-1;[Vacio];APRIMARIA;0;0;0
+238;2019-01-10;719.46;DOLOR ARTICULAR-PIERNA;CIE9;204;Otros trastornos articulares no traumáticos;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+239;2019-01-12;V58.69;MEDICACION LARGA DURACION.OTRA;CIE9;257;Otra asistencia posterior;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HOBS;OBSTETRICIA;HOS;0;0;0
+240;2019-03-05;924.21;CONTUSION TOBILLO;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+241;2020-01-08;Z79.52;Uso prolongado (actual) de esteroides sistémicos;CIE10;257;Otra asistencia posterior;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HNFI;NEFROLOGIA INFANTIL;HOS;0;0;0
+242;2015-06-06;381.4;OTITIS MEDIA NO SUPURATIVA, NO ESPECIFICADA AGUDA NI CRONICA;CIE9;92;Otitis media y afecciones relacionadas;6;Enfermedades del sistema nervioso y órganos de los sentidos;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+243;2014-11-04;S93.402D;Esguince de ligamento no especificado de tobillo izquierdo, contacto sucesivo;CIE10;232;Esguinces y torceduras;16;Lesiónes e intoxicaciones;ECOT;CIR ORTOPEDICA TRAUMA CESP;CEX;0;0;0
+244;2016-05-02;472.0;RINITIS CRONICA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;CORL;OTORRINOLARINGOLOGIA;CEX;0;1;0
+245;2018-08-06;924.11;CONTUSION DE RODILLA;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+246;2021-01-25;923.11;CONTUSION CODO;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;UOTI;CIR ORTOPEDICA Y TRAUMA INFANT;URG;0;0;0
+247;2021-03-04;193;NEOPLASIA MALIGNA GLANDULA TIROIDES (#)(&);CIE9;36;Cáncer de tiroides;2;Neoplasias;HECR;ENDOCRINOLOGIA Y NUTRICION;HOS;0;0;0
+248;2015-05-03;345.90;EPILEPSIA NEOM.NO INCURABLE;CIE9;83;Epilepsia y convulsiones;6;Enfermedades del sistema nervioso y órganos de los sentidos;HMUR;U DE CORTA ESTANCIA;HOS;0;0;0
+249;2017-02-14;723.5;TORTICOLIS SIN ESPECIFICAR;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+250;2016-07-19;I50.9;Insuficiencia cardiaca, no especificada;CIE10;108;Insuficiencia cardíaca congestiva no hipertensiva;7;Enfermedades del aparato circulatorio;UMUR;MEDICINA URGENCIA;URG;1;0;0
+251;2014-01-17;J18.9;Neumonía, microorganismo no especificado;CIE10;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;CNEM;NEUMOLOGIA;CEX;0;0;0
+252;2016-05-15;799.1;PARADA RESPIRATORIA;CIE9;131;Fallo, insuficiencia y paro respiratorio (en el adulto);8;Enfermedades del aparato respiratorio;HNEM;NEUMOLOGIA;HOS;0;0;0
+253;2018-12-10;009.3;DIARREA ORIGEN PRESUMIBLEMENTE INFECCIOSO;CIE9;135;Infección intestinal;9;Enfermedades del aparato digestivo;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+254;2006-12-15;M54.5;Dolor en la parte inferior de la espalda;CIE10;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;UURO;UROLOGIA;URG;0;0;0
+255;2008-07-27;664.01;DESGARRO PERINEAL PRIMER GRADO.PARTO Y ANTEPARTO;CIE9;193;Traumatismo del perineo y la vulva;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+256;2011-11-04;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+257;2007-12-29;752.49;ANOMALIA CONGENITA CERVIX,VAGINA Y GENITAL EXTERNO.OTRA;CIE9;215;Anomalías congénitas genitourinarias;14;Anomalías Congénitas;CCGI;CIR PEDIATRICA;CEX;0;0;0
+258;2016-01-18;626.0;AUSENCIA MENSTRUACION;CIE9;171;Trastornos menstruales;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+259;2018-08-03;692.9;DERMATITIS POR CAUSA NO ESPECIFICADA;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+260;2018-09-04;V20.2;CONTROL SALUD RUTINARIO DEL BEBE O NIÑO;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+261;2000-04-17;Z87.891;Historia personal de dependencia a nicotina;CIE10;663;Códigos de cribaje, historia de salud mental y abuso de sustancias psicotrópicas;5;Enfermedades Mentales;HCOV;HOSPITALIZACION COVID;HOS;0;0;0
+262;2000-01-24;519.8;OTRAS ENF. SISTEMA RESPIRATORIO NO CLASIF. BAJO OTROS CONCEP;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+263;2017-12-09;648.93;ENFERMEDAD ACTUAL COC EMBARAZO.ANTEPARTO;CIE9;181;Otras complicaciones del embarazo;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+264;2012-12-11;J12.89;Otros tipos de neumonía vírica;CIE10;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;HEPI;MEDICINA PREVENTIVA;HOS;0;0;0
+265;2020-11-16;Z71.9;Asesoramiento, no especificado;CIE10;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMUR;MEDICINA URGENCIA;URG;0;0;0
+266;2000-03-30;428.0;FALLO CARDIACO.CONGESTIVO NEOM;CIE9;108;Insuficiencia cardíaca congestiva no hipertensiva;7;Enfermedades del aparato circulatorio;HCAR;CARDIOLOGIA;HOS;0;0;0
+267;2018-01-19;E03.9;Hipotiroidismo, no especificado;CIE10;48;Trastornos tiroideos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;CECR;ENDOCRINOLOGIA Y NUTRICION;CEX;1;0;0
+268;2020-01-29;R06.00;Disnea no especificada;CIE10;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+269;2001-01-22;V58.61;MEDICACION LARGA DURACION.ANTICOAGULANTE;CIE9;257;Otra asistencia posterior;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;HOS;0;0;0
+270;2019-10-15;536.2;VOMITOS PERSISTENTES;CIE9;141;Otros trastornos del estómago y duodeno;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+271;2017-12-21;Z01.419;Contacto para reconocimiento ginecológico (general) (de rutina) sin resultados anómalos;CIE10;256;Examen y evaluación médica;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;EGIN;GINECOLOGIA CESP;CEX;0;0;0
+272;2020-10-16;592.1;CALCULO URETER;CIE9;160;Cálculo de vías urinarias;10;Enfermedades del sistema genitourinario;HURO;UROLOGIA;HOS;0;0;0
+273;2020-08-14;315.2;OTRAS DIFICULTADES ESPECIFICAS DEL APRENDIZAJE;CIE9;654;Trastornos del desarrollo;5;Enfermedades Mentales;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+274;2020-04-08;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+275;2019-03-20;340;ESCLEROSIS MULTIPLE (#);CIE9;80;Esclerosis multiple;6;Enfermedades del sistema nervioso y órganos de los sentidos;CNER;NEUROLOGIA;CEX;0;0;0
+276;2017-01-03;824.8;FRACTURA CERRADA TOBILLO NEOM;CIE9;230;Fractura de miembro inferior;16;Lesiónes e intoxicaciones;UOTI;CIR ORTOPEDICA Y TRAUMA INFANT;URG;0;0;0
+277;2017-02-24;F17.200;Dependencia de nicotina no especificada, sin complicaciones;CIE10;661;Trastornos relacionados con sustancias psicotrópicas;5;Enfermedades Mentales;HOBS;OBSTETRICIA;HOS;1;0;0
+278;2019-01-29;575.0;COLECISTITIS AGUDA;CIE9;149;Enfermedades de vías biliares;9;Enfermedades del aparato digestivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+279;2018-02-28;466.1;BRONQUIOLITIS AGUDA;CIE9;125;Bronquitis aguda;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+280;2016-03-20;490;BRONQUITIS NO ESPECIFICADA COMO AGUDA NI COMO CRONICA;CIE9;127;Enfermedad pulmonar obstructiva crónica y bronquiectasia;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+281;2016-12-26;Z20.828;Contacto y (sospecha de) exposición a otras enfermedades víricas transmisibles;CIE10;10;Inmunizaciones y cribaje de enfermedades infecciosas;1;Enfermedad Infecciosa y parasitaria;UMUR;MEDICINA URGENCIA;URG;0;0;0
+282;2017-07-14;V20.2;CONTROL SALUD RUTINARIO DEL BEBE O NIÑO;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+283;2009-11-14;472.0;RINITIS CRONICA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;1;0
+284;2018-01-31;428.0;FALLO CARDIACO.CONGESTIVO NEOM;CIE9;108;Insuficiencia cardíaca congestiva no hipertensiva;7;Enfermedades del aparato circulatorio;HNEF;NEFROLOGIA;HOS;0;0;0
+285;2018-05-10;462;FARINGITIS AGUDA;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+286;2018-11-07;183.0;NEOPLASIA MALIGNA OVARIO (&);CIE9;27;Cáncer de ovario;2;Neoplasias;CONG;ONCOGINECOLOGIA;CEX;0;0;0
+287;2017-03-09;959.7;TRAUMATISMO RODILLA,PIERNA,TOBILLO Y PIE OTRO Y NEOM;CIE9;244;Otras lesiones y afecciones debidas a causas externas;16;Lesiónes e intoxicaciones;UOTI;CIR ORTOPEDICA Y TRAUMA INFANT;URG;0;0;0
+288;2007-03-28;373.02;BLEFARITIS ESCAMOSA;CIE9;90;Inflamación e infección del ojo (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+289;2016-05-20;Z80.0;Historia familiar de neoplasia maligna de órganos digestivos;CIE10;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HOFT;OFTALMOLOGIA;CMA;0;0;0
+290;2018-10-07;922.2;CONTUSION DE PARED ABDOMINAL;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+291;2017-04-09;735.0;HALLUX VALGUS ADQUIRIDO;CIE9;208;Deformidades adquiridas del pie;13;Enfermedades del sistema osteomuscular y tejido conectivo;HREA;REANIMACION;CEX;0;0;0
+292;2018-04-22;465.8;INFECCION VIA AEREA SUPERIOR AGUDA.OTRA (&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+293;2018-11-15;472.1;FARINGITIS CRONICA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+294;2016-12-16;305.1;ABUSO DE TABACO;CIE9;663;Códigos de cribaje, historia de salud mental y abuso de sustancias psicotrópicas;5;Enfermedades Mentales;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+295;2016-02-15;555.9;ENTERITIS REGIONAL.NEOM;CIE9;144;Enteritis y colitis ulcerosa regional;9;Enfermedades del aparato digestivo;CCAR;CARDIOLOGIA;CEX;0;0;0
+296;2011-05-16;R05;Tos;CIE10;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;1;0
+297;2019-10-17;786.2;TOS;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;1;0
+298;2012-10-01;I63.9;Infarto cerebral, no especificado;CIE10;109;Enfermedades cerebrovasculares agudas;7;Enfermedades del aparato circulatorio;HNER;NEUROLOGIA;HOS;1;0;0
+299;2016-07-27;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+300;2018-10-30;472.0;RINITIS CRONICA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;CALE;ALERGOLOGIA;CEX;0;1;0
+301;2016-05-05;720.0;ESPONDILITIS ANQUILOSANTE;CIE9;202;Artritis reumatoide y enfermedades relacionadas;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+302;2014-10-05;690.10;DERMATITIS SEBOREICA NO ESPECIFICADA;CIE9;198;Otra afección inflamatoria de la piel;12;Enfermedades de la piel y tejido subcutáneo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+303;2013-09-09;923.11;CONTUSION CODO;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+304;2016-01-26;285.9;ANEMIA NO ESPECIFICADA;CIE9;59;Anemias carenciales y otras;4;Enfermedades de la sangre y órganos hematopoyéticos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+305;2018-03-08;523.0;GINGIVITIS AGUDA;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+306;2018-04-25;724.2;LUMBALGIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;CUDO;UNIDAD DEL DOLOR;CEX;0;0;0
+307;2017-10-04;009.1;COLITIS, ENTERITIS Y GASTROENTERITIS ORIGEN INFECCIOSO;CIE9;135;Infección intestinal;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+308;2016-05-26;727.61;ROTURA TOTAL VAINA ROTADORES;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;HREA;REANIMACION;HOS;0;0;0
+309;2019-06-04;616.3;ABSCESO DE LA GLANDULA DE BARTHOLIN;CIE9;168;Enfermedades inflamatorias de los órganos femeninos pelvicos;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+310;2020-12-26;S42.201D;Fractura no especificada de extremo superior de húmero derecho, contacto sucesivo por fractura con curas rutinarias;CIE10;229;Fractura de miembro superior;16;Lesiónes e intoxicaciones;CRAL;RHB A.LOCOMOTOR;CEX;0;0;0
+311;2020-06-17;V43.64;ARTICULACION SUSTITUIDA POR PROTESIS.CADERA;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;CCOT;CIR ORTOPEDICA TRAUMA;CEX;0;0;0
+312;2018-11-23;M25.552;Dolor en cadera izquierda;CIE10;204;Otros trastornos articulares no traumáticos;13;Enfermedades del sistema osteomuscular y tejido conectivo;CREU;REUMATOLOGIA;CEX;0;0;0
+313;2016-05-30;H04.129;Síndrome de ojo seco, glándula lacrimal no especificada;CIE10;91;Otros trastornos del ojo;6;Enfermedades del sistema nervioso y órganos de los sentidos;UMUR;MEDICINA URGENCIA;URG;0;0;0
+314;2019-09-02;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+315;2019-01-23;705.1;SARPULLIDO POR EXCESO DE CALOR;CIE9;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+316;2020-12-09;472.0;RINITIS CRONICA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;1;0
+317;2014-09-08;491.8;BRONQUITIS CRONICA.OTRA;CIE9;127;Enfermedad pulmonar obstructiva crónica y bronquiectasia;8;Enfermedades del aparato respiratorio;HNAI;NEUMOLOGIA Y ALERGIA INFANTIL;HOS;0;0;0
+318;2018-10-16;079.99;INFECCION VIRAL INESPECIFICA;CIE9;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+319;2018-12-19;379.93;INYECCION SANGUINEA O SUPURACION OJO;CIE9;91;Otros trastornos del ojo;6;Enfermedades del sistema nervioso y órganos de los sentidos;UMUR;MEDICINA URGENCIA;URG;0;0;0
+320;2017-10-25;414.00;ATEROSCLEROSIS CORONARIA.NEOM;CIE9;101;Aterosclerosis coronaria y otras cardiopatías;7;Enfermedades del aparato circulatorio;HCAR;CARDIOLOGIA;HOS;0;0;0
+321;2014-12-09;V22.2;ESTADO EMBARAZO NEOM;CIE9;196;Embarazo y parto normales;11;Complicaciones del embarazo, parto y puerperio;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0
+322;2017-10-03;311;TRASTORNO DEPRESIVO NCOC (#);CIE9;657;Trastornos del humor;5;Enfermedades Mentales;CSMT;CS MENTAL TRINITAT;CEX;0;0;0
+323;2014-06-25;I25.2;Infarto de miocardio antiguo;CIE10;101;Aterosclerosis coronaria y otras cardiopatías;7;Enfermedades del aparato circulatorio;HUHP;CIR HEPATOBILIOPANCREATICA;HOS;1;0;0
+324;2017-05-28;780.99;SINTOMA GENERAL.OTRO;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+325;2014-05-08;241.9;BOCIO NODULAR NO TOXICO Y NEOM;CIE9;48;Trastornos tiroideos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;EECR;ENDOCRINOLOGIA-NUTRICION CESP;CEX;0;0;0
+326;2018-08-27;724.5;DOLOR DE ESPALDA NO ESPECIFICADO;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+327;2014-04-01;723.1;CERVICALGIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;CRHB;REHABILITACION;CEX;0;0;0
+328;2017-10-21;491.20;BRONQUITIS CRONICA.OBSTRUCTIVA.SIN AGUDIZACION;CIE9;127;Enfermedad pulmonar obstructiva crónica y bronquiectasia;8;Enfermedades del aparato respiratorio;CCAR;CARDIOLOGIA;CEX;0;0;0
+329;2014-01-14;382.9;OTITIS MEDIA NEOM;CIE9;92;Otitis media y afecciones relacionadas;6;Enfermedades del sistema nervioso y órganos de los sentidos;UPED;PEDIATRIA GENERAL;URG;0;0;0
+330;2017-03-15;854.01;LESION INTRACRANEAL CERRADA.SIN PERDIDA CONCIENCIA;CIE9;233;Lesión intracraneal;16;Lesiónes e intoxicaciones;UCPL;CIR PLASTICA;URG;0;0;0
+331;2019-06-17;B78.0;Estrongiloidiasis intestinal;CIE10;8;Otras infecciones incluyendo las parasitarias;1;Enfermedad Infecciosa y parasitaria;CMDG;GASTROENTEROLOGIA;CEX;0;0;0
+332;2017-12-17;784.0;CEFALEA;CIE9;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;1;0
+333;2004-08-06;578.0;HEMATEMESIS;CIE9;153;Hemorragia del aparato digestivo;9;Enfermedades del aparato digestivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+334;2016-03-13;380.10;OTITIS EXTERNA INFECCIOSA.NEOM;CIE9;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+335;2016-12-05;493.00;ASMA EXTRINSECA NO ESPECIFICADA;CIE9;128;Asma;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+336;2014-07-11;O42.02;Rotura prematura de membranas a término, inicio del trabajo de parto en las primeras 24 horas de la rotura;CIE10;191;Polihidramnios y otros problemas de la cavidad amniótica;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+337;2018-07-17;I12.9;Enfermedad renal crónica hipertensiva con enfermedad renal crónica en estadio 1 a 4 ó con enfermedad renal crónica no especificada;CIE10;99;Hipertensión con complicaciones e hipertensión secundaria;7;Enfermedades del aparato circulatorio;HMUR;U DE CORTA ESTANCIA;HOS;1;0;0
+338;2006-11-01;590.10;PIELONEFRITIS AGUDA.SIN NECROSIS MEDULAR;CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;HMUR;U DE CORTA ESTANCIA;HOS;0;0;0
+339;2021-05-12;I73.9;Enfermedad vascular periférica, no especificada;CIE10;114;Aterosclerosis periférica y visceral;7;Enfermedades del aparato circulatorio;HMUR;U DE CORTA ESTANCIA;HOS;1;0;0
+340;2016-05-20;726.90;ENTESOPATIA, LUGAR NO LOCALIZADO;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+341;2021-03-15;L85.8;Otros tipos de engrosamientos epidérmicos especificados;CIE10;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;CDER;DERMATOLOGIA;CEX;0;0;0
+342;2019-09-20;723.1;CERVICALGIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+343;2021-02-23;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+344;2019-02-21;823.81;FRACTURA DE PARTE NEOM DE PERONE-CERRADA;CIE9;230;Fractura de miembro inferior;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+345;2021-02-12;E11.9;Diabetes mellitus tipo 2 sin complicaciones;CIE10;49;Diabetes mellitus sin complicaciones;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;CNEF;NEFROLOGIA;CEX;1;0;0
+346;2018-11-19;355.8;MONONEURITIS MIEMBRO INFERIOR NEOM;CIE9;95;Otros trastornos del sistema nervioso;6;Enfermedades del sistema nervioso y órganos de los sentidos;UMUR;MEDICINA URGENCIA;URG;0;0;0
+347;2020-12-21;644.13;AMENAZA PARTO OTRA.ANTEPARTO;CIE9;184;Parto prematuro o amenaza de parto prematuro;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+348;2021-07-09;634.91;ABORTO ESPONTANEO.SIN COMPLICACION.INCOMPLETO;CIE9;177;Aborto espontáneo;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;CMA;0;0;0
+349;2017-04-25;491.20;BRONQUITIS CRONICA.OBSTRUCTIVA.SIN AGUDIZACION;CIE9;127;Enfermedad pulmonar obstructiva crónica y bronquiectasia;8;Enfermedades del aparato respiratorio;UMIN;MEDICINA INTERNA;URG;0;0;0
+350;2014-03-31;924.8;CONTUSION MULTIPLE NCOC;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;UMUR;MEDICINA URGENCIA;URG;0;0;0
+351;2018-10-18;786.2;TOS;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;1;0
+352;2014-09-17;V42.0;ESTADO DE TRANSPLANTE RENAL;CIE9;158;Insuficiencia renal crónica;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+353;1998-04-13;B34.2;Infección debida a coronavirus, no especificada;CIE10;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;HOS;0;0;0
+354;2020-05-29;812.20;FRACTURA CERRADA HUMERO NEOM;CIE9;229;Fractura de miembro superior;16;Lesiónes e intoxicaciones;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+355;2016-10-31;519.8;OTRAS ENF. SISTEMA RESPIRATORIO NO CLASIF. BAJO OTROS CONCEP;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+356;2012-10-16;V82.9;CRIBA ESPECIAL ENFERMEDAD.NEOM;CIE9;258;Otros cribajes por sospecha de enfermedad (se excluyen  trastornos mentales y enfermedades infecciosas);17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;URGE;URGENCIAS;URG;0;0;0
+357;2018-01-05;787.91;DIARREA;CIE9;155;Otros trastornos del aparato digestivo;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;1;0
+358;2017-03-01;V07.1;NECESIDAD DESENSIBILIZACION ALERGENO;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;CALE;ALERGOLOGIA;CEX;0;0;0
+359;2010-05-31;883.0;HERIDA ABIERTA DE DEDO(S) MANO-SIN COMPLICACION;CIE9;236;Heridas abiertas de extremidades;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+360;2020-10-28;N39.0;Infección de tracto urinario, localización no especificada;CIE10;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;UMUR;MEDICINA URGENCIA;URG;0;0;0
+361;2016-11-03;367.1;MIOPIA;CIE9;89;Ceguera y defectos de la visión;6;Enfermedades del sistema nervioso y órganos de los sentidos;COFI;OFTALMOLOGIA INFANTIL;CEX;0;0;0
+362;2016-10-20;822.0;FRACTURA DE ROTULA-CERRADA;CIE9;230;Fractura de miembro inferior;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+363;2020-10-20;Z85.3;Historia personal de neoplasia maligna de mama;CIE10;24;Cáncer de mama;2;Neoplasias;HUEI;U ENFERMEDADES INFECCIOSAS;HOS;0;0;0
+364;2017-08-01;558.9;GASTRITIS,ENTERITIS Y COLITIS NO INFECCIOSA.OTRA Y NEOM;CIE9;154;Gastroenteritis no infecciosa;9;Enfermedades del aparato digestivo;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+365;2009-01-02;Q85.1;Esclerosis tuberosa;CIE10;217;Otras anomalías congénitas;14;Anomalías Congénitas;CDER;DERMATOLOGIA;CEX;1;0;0
+366;2017-03-15;659.61;MULTIGRAVIDA EDAD AVANZADA.PARTO Y ANTEPARTO;CIE9;195;Otras complicaciones del nacimiento y puerperio que afectan al tratamiento de la madre;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+367;2020-12-18;523.1;GINGIVITIS CRONICA;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+368;2010-09-15;R04.0;Epistaxis;CIE10;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;HUMI;U MEDICINA INTENSIVA;HOS;0;0;0
+369;2021-05-11;Z85.3;Historia personal de neoplasia maligna de mama;CIE10;24;Cáncer de mama;2;Neoplasias;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;HOS;0;0;0
+370;2018-03-10;V20.1;CONTROL SALUD-OTRO BEBE O NIÑO SANO QUE RECIBE CUIDADOS;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+371;2018-03-06;723.5;TORTICOLIS NEOM;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+372;2000-10-04;110.1;DERMATOFITOSIS DE UÑAS;CIE9;4;Micosis;1;Enfermedad Infecciosa y parasitaria;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+373;2010-10-27;V22.2;ESTADO DE EMBARAZO, INCIDENTAL;CIE9;196;Embarazo y parto normales;11;Complicaciones del embarazo, parto y puerperio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+374;2015-01-15;737.9;DESVIACION COLUMNA NO ESPECIFICADO;CIE9;209;Otras deformidades adquiridas;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+375;2017-12-20;E950.5;SUICIDIO Y ENVENENAMIENTO POR MEDICAMENTO NEOM;CIE9;662;Suicidio y lesiones intencionadamente autoinfligidas;5;Enfermedades Mentales;UPSI;PSIQUIATRIA;URG;0;0;0
+376;2021-04-28;366.10;CATARATA SENIL NO ESPECIFICADA;CIE9;86;Catarata;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+377;2014-11-27;616.10;VAGINITIS Y VULVOVAGINITIS NEOM;CIE9;168;Enfermedades inflamatorias de los órganos femeninos pelvicos;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+378;2018-01-17;R51;Cefalea;CIE10;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;UMUR;MEDICINA URGENCIA;URG;0;1;0
+379;2009-11-07;372.30;CONJUNTIVITIS NEOM;CIE9;90;Inflamación e infección del ojo (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;CNAI;NEUMOLOGIA Y ALERGIA INFANTIL;CEX;0;0;0
+380;2019-11-22;918.1;LESION SUPERFICIAL CORNEA;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;UOFT;OFTALMOLOGIA;URG;0;0;0
+381;2016-02-22;V43.65;SUSTITUCION DE ARTICULACION DE RODILLA;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+382;2014-06-13;599.0;INFECCION TRACTO URINARIO NEOM (&);CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;UMUR;MEDICINA URGENCIA;URG;0;0;0
+383;2018-09-21;854.00;LESION INTRACRANEAL CERRADA.CONCIENCIA NEOM;CIE9;233;Lesión intracraneal;16;Lesiónes e intoxicaciones;UMUR;MEDICINA URGENCIA;URG;0;0;0
+384;2017-06-13;705.1;SARPULLIDO POR EXCESO DE CALOR;CIE9;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+385;2016-07-11;V06.6;NECESIDAD VACUNACION INFECCION POR NEUMOCOCO Y GRIPE;CIE9;10;Inmunizaciones y cribaje de enfermedades infecciosas;1;Enfermedad Infecciosa y parasitaria;CEPI;MEDICINA PREVENTIVA;CEX;0;0;0
+386;2019-03-27;873.0;HERIDA ABIERTA DE CUERO CABELLUDO, SIN COMPLICACION;CIE9;235;Heridas abiertas de cabeza, cuello y tronco;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+387;2014-09-13;381.01;OTITIS MEDIA SEROSA AGUDA;CIE9;92;Otitis media y afecciones relacionadas;6;Enfermedades del sistema nervioso y órganos de los sentidos;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+388;2019-12-27;599.0;INFECCION TRACTO URINARIO NEOM (&);CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;CHEM;HEMATOLOGIA Y HEMOTERAPIA;CEX;0;0;0
+389;2016-05-02;V60.6;PERSONA QUE VIVE EN INSTITUCION RESIDENCIAL;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HUML;U MEDIA LARGA ESTANCIA;HOS;0;0;0
+390;2016-12-05;300.00;ESTADO ANSIEDAD.NEOM;CIE9;651;Trastornos por ansiedad;5;Enfermedades Mentales;UMUR;MEDICINA URGENCIA;URG;0;0;0
+391;2017-12-26;V14.8;HISTORIA PERSONAL ALERGIA MEDICAMENTO.OTRO;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HUHP;CIR HEPATOBILIOPANCREATICA;HOS;0;0;0
+392;2017-10-07;704.01;ALOPECIA AREATA;CIE9;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+393;2018-10-01;462;FARINGITIS AGUDA;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+394;2021-01-26;946.1;QUEMADURA PRIMER GRADO MULTIPLE;CIE9;240;Quemaduras;16;Lesiónes e intoxicaciones;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+395;2020-09-28;745.4;DEFECTO TABIQUE INTERVENTRICULAR;CIE9;213;Anomalías congénitas cardíacas y circulatorias;14;Anomalías Congénitas;CCAR;CARDIOLOGIA;CEX;0;0;0
+396;2020-12-01;210.4;NEOPLASIA BENIGNA BOCA OTRA Y NEOM;CIE9;47;Otras neoplasias benigna y neoplasias benigna no especificadas;2;Neoplasias;HNEM;NEUMOLOGIA;HOS;0;0;0
+397;2017-03-29;370.40;QUERATOCONJUNTIVITIS NEOM;CIE9;90;Inflamación e infección del ojo (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;UOFT;OFTALMOLOGIA;URG;0;0;0
+398;2016-01-02;W50.3XXA;Mordedura accidental por otra persona, contacto inicial;CIE10;2614;Códigos E: Golpe por/contra;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+399;2017-08-17;786.2;TOS;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;1;0
+400;2018-10-16;487;GRIPE;CIE9;123;Gripe;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+401;2013-07-15;N19;Insuficiencia renal no especificada;CIE10;157;Insuficiencia renal aguda y no especificada;10;Enfermedades del sistema genitourinario;HURO;UROLOGIA;HOS;1;0;0
+402;2020-04-19;S02.2XXA;Fractura de huesos nasales, contacto inicial por fractura cerrada;CIE10;228;Fracturas de cráneo y cara;16;Lesiónes e intoxicaciones;HCMX;CIR MAXILOFACIAL;HOS;0;0;0
+403;2017-03-27;T38.3X2A;Envenenamiento por insulina y fármacos hipoglucemiantes [antidiabéticos] orales, autolesión intencionada, contacto inicial;CIE10;662;Suicidio y lesiones intencionadamente autoinfligidas;5;Enfermedades Mentales;UMUR;MEDICINA URGENCIA;URG;0;0;0
+404;2021-04-05;622.7;POLIPO MUCOSO DE CERVIX;CIE9;175;Otros trastornos genitales femeninos;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+405;2021-01-11;250.00;DIABETES MELLITUS.NEOM.TIPO II;CIE9;49;Diabetes mellitus sin complicaciones;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;UMUR;MEDICINA URGENCIA;URG;0;0;0
+406;2017-05-08;659.41;MULTIPARIDAD ELEVADA.PARTO Y ANTEPARTO;CIE9;195;Otras complicaciones del nacimiento y puerperio que afectan al tratamiento de la madre;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+407;2016-10-25;719.46;DOLOR ARTICULAR-PIERNA;CIE9;204;Otros trastornos articulares no traumáticos;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+408;2021-01-25;976.9;ENVENENAMIENTO POR FARMACO PIEL Y MUCOSA NEOM;CIE9;242;Intoxicación por otros medicamentos y drogas;16;Lesiónes e intoxicaciones;UMUR;MEDICINA URGENCIA;URG;0;0;0
+409;2019-10-02;300.00;ESTADO ANSIEDAD.NEOM;CIE9;651;Trastornos por ansiedad;5;Enfermedades Mentales;UPED;PEDIATRIA GENERAL;URG;0;0;0
+410;2020-10-19;780.31;CONVULSION.FEBRIL;CIE9;83;Epilepsia y convulsiones;6;Enfermedades del sistema nervioso y órganos de los sentidos;HPED;PEDIATRIA GENERAL;HOS;0;0;0
+411;2018-09-11;380.10;OTITIS EXTERNA INFECCIOSA NEOM;CIE9;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+412;2018-09-30;466.19;BRONQUIOLITIS AGUDA DEBIDO A OTROS ORGANISMOS INFECCIOSOS;CIE9;125;Bronquitis aguda;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+413;2016-09-14;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+414;2018-01-25;309.28;REACCION ADAPTACION CON CARACTERISTICA EMOCIONAL MIXTA;CIE9;650;Trastornos adaptativos;5;Enfermedades Mentales;CPSI;PSIQUIATRIA;CEX;0;0;0
+415;2020-12-18;784.0;CEFALEA;CIE9;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;UPED;PEDIATRIA GENERAL;URG;0;1;0
+416;2014-06-03;J84.10;Fibrosis pulmonar, no especificada;CIE10;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;HUHP;CIR HEPATOBILIOPANCREATICA;HOS;1;0;0
+417;2018-02-03;462;FARINGITIS AGUDA;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+418;2017-11-29;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+419;2012-05-24;B97.29;Otros coronavirus como causa de enfermedades clasificadas bajo otro concepto;CIE10;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;CNEM;NEUMOLOGIA;CEX;0;0;0
+420;2020-12-17;G43.709;Migraña sin aura crónica, no intratable, sin estatus migrañoso;CIE10;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;CNER;NEUROLOGIA;CEX;1;0;0
+421;2017-07-19;401.9;HIPERTENSION ESENCIAL.NEOM;CIE9;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;CNER;NEUROLOGIA;CEX;0;0;0
+422;2018-06-15;558.9;GASTRITIS,ENTERITIS Y COLITIS NO INFECCIOSA.OTRA Y NEOM;CIE9;154;Gastroenteritis no infecciosa;9;Enfermedades del aparato digestivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+423;2020-04-22;R07.9;Dolor torácico, no especificado;CIE10;102;Dolor torácico no específicado;7;Enfermedades del aparato circulatorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+424;2019-03-01;465.9;INFECCION VIA AEREA SUPERIOR AGUDA.NEOM (&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+425;2019-01-24;E11.9;Diabetes mellitus tipo 2 sin complicaciones;CIE10;49;Diabetes mellitus sin complicaciones;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HCOV;HOSPITALIZACION COVID;HOS;1;0;0
+426;2017-10-14;T82.858A;Estenosis debida a otro tipo de prótesis, implantes e injertos vasculares, contacto inicial;CIE10;237;Complicación de dispositivo, implante o injerto;16;Lesiónes e intoxicaciones;CERC;ENF RENAL CRONICA Y TERAP SUST;CEX;1;0;1
+427;2005-01-11;729.5;DOLOR EN EXTREMIDADES;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+428;2021-06-08;Z85.51;Historia personal de neoplasia maligna de vejiga;CIE10;32;Cáncer de vejiga urinaria;2;Neoplasias;CURO;UROLOGIA;CEX;0;0;0
+429;2019-03-16;V84.01;SUSCEPTIBILIDAD GENETICA NEOPLASIA MALIGNA.MAMA;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;CCGC;CONSEJO GENETICO CANCER;CEX;0;0;0
+430;2014-07-14;716.50;POLIARTROPATIA Y POLIARTRITIS NEOM.NEOM;CIE9;204;Otros trastornos articulares no traumáticos;13;Enfermedades del sistema osteomuscular y tejido conectivo;CREU;REUMATOLOGIA;CEX;0;0;0
+431;2021-06-12;370.00;ULCERA CORNEA.NEOM;CIE9;91;Otros trastornos del ojo;6;Enfermedades del sistema nervioso y órganos de los sentidos;COFT;OFTALMOLOGIA;CEX;0;0;0
+432;2021-05-04;365.04;HIPERTENSION OCULAR;CIE9;88;Glaucoma;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+433;2019-04-11;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+434;1997-11-30;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+435;1997-12-18;E819.2;ACCIDENTE VEHICULO MOTOR NEOM TRAFICO.MOTORISTA;CIE9;2607;Códigos E: Tráfico de vehículo a motor (MVT);18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUR;MEDICINA URGENCIA;URG;0;0;0
+436;2016-09-26;Q04.3;Otras deformidades por reducción del cerebro;CIE10;216;Anomalías congénitas del sistema nervioso;14;Anomalías Congénitas;CMET;METABOLOPATIAS INFANTIL;CEX;1;0;0
+437;2018-01-31;706.2;QUISTE SEBACEO;CIE9;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+438;2016-02-09;V15.02;ALERGIA A LOS PRODUCTOS LACTEOS;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+439;2012-01-23;079.99;INFECCION VIRAL INESPECIFICA;CIE9;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+440;2016-08-08;O80;Admisión para el parto a término no complicado;CIE10;196;Embarazo y parto normales;11;Complicaciones del embarazo, parto y puerperio;COBS;OBSTETRICIA;CEX;0;0;0
+441;2016-10-13;527.2;SIALOADENITIS;CIE9;137;"Enfermedades de la boca; excluyendo las dentales";9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+442;2018-02-05;E888.8;CAIDA ACCIDENTAL OTRA;CIE9;2603;Códigos E: Caída;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HCTO;CIR TORACICA;HOS;0;0;0
+443;2019-06-10;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+444;2012-03-05;209.23;TUMOR CARCINOIDE MALIGNO ESTOMAGO;CIE9;13;Cáncer del estómago;2;Neoplasias;CUEM;CIR ENDOCRINOMETABOLICA;CEX;0;0;0
+445;2014-09-18;729.5;DOLOR EN EXTREMIDADES;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+446;2016-03-21;Z90.5;Ausencia adquirida de riñón;CIE10;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HNEM;NEUMOLOGIA;HOS;0;0;0
+447;2016-03-04;V23.85;EMBARAZO POR TECNOLOGIA REPRODUCTIVA ASISTIDA;CIE9;195;Otras complicaciones del nacimiento y puerperio que afectan al tratamiento de la madre;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+448;2016-06-14;V09.81;INFECCION POR ORGANISMO RESISTENTE MEDICAMENTO.OTRO.MULTIPLE;CIE9;3;Otras infecciones bacterianas;1;Enfermedad Infecciosa y parasitaria;HNEM;NEUMOLOGIA;HOS;0;0;0
+449;2016-09-25;J44.9;Enfermedad pulmonar obstructiva crónica, no especificada;CIE10;127;Enfermedad pulmonar obstructiva crónica y bronquiectasia;8;Enfermedades del aparato respiratorio;HURO;UROLOGIA;HOS;1;0;0
+450;2016-09-28;780.4;VERTIGO Y MAREOS;CIE9;93;Afecciones asociadas con mareo o vértigo;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+451;2017-10-20;216.9;N. BENIGNA DE PIEL SITIO NO ESPECIFICADO;CIE9;47;Otras neoplasias benigna y neoplasias benigna no especificadas;2;Neoplasias;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+452;2017-12-13;466.0;BRONQUITIS AGUDA;CIE9;125;Bronquitis aguda;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+453;2017-03-06;R42;Mareo y desvanecimiento;CIE10;93;Afecciones asociadas con mareo o vértigo;6;Enfermedades del sistema nervioso y órganos de los sentidos;UMUR;MEDICINA URGENCIA;URG;0;0;0
+454;2017-03-23;H04.301;Dacriocistitis no especificada, lado derecho;CIE10;90;Inflamación e infección del ojo (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;UOFT;OFTALMOLOGIA;URG;0;0;0
+455;2009-07-08;768.2;SUFRIMIENTO FETO ANTES INICIO PARTO EN NIÑO VIVO;CIE9;220;Hipoxia intrauterina y asfixia en el nacimiento;15;Determinadas afecciones que se originan en el período perinatal;UMUR;MEDICINA URGENCIA;URG;0;0;0
+456;2018-05-03;627.2;ESTADOS MENOPAUSICOS O DEL CLIMATERIO FEMENINO SINTOMATICOS;CIE9;173;Trastornos menopáusicos;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+457;2019-09-04;V15.82;HISTORIA PERSONAL TABAQUISMO;CIE9;663;Códigos de cribaje, historia de salud mental y abuso de sustancias psicotrópicas;5;Enfermedades Mentales;HMDG;GASTROENTEROLOGIA;HOS;0;0;0
+458;2019-05-06;J18.9;Neumonía, microorganismo no especificado;CIE10;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+459;2018-09-20;540.9;APENDICITIS AGUDA.SIN PERITONITIS;CIE9;142;Apendicitis y otras enfermedades relacionadas con el apéndice;9;Enfermedades del aparato digestivo;HCDG;CIR DIGESTIVO;HOS;0;0;0
+460;2018-09-18;460;RINOFARINGITIS AGUDA (#)(&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+461;2021-02-02;599.0;INFECCION TRACTO URINARIO NEOM (&);CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+462;2016-04-09;923.20;CONTUSION MANO SALVO DEDO;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;UOTI;CIR ORTOPEDICA Y TRAUMA INFANT;URG;0;0;0
+463;2016-01-04;487.1;GRIPE.CON MANIFESTACION REPIRATORIA OTRA;CIE9;123;Gripe;8;Enfermedades del aparato respiratorio;HMUR;U DE CORTA ESTANCIA;HOS;0;0;0
+464;2020-11-26;E78.5;Hiperlipidemia, no especificada;CIE10;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;CUED;U ENDOSCOPIAS DIGESTIVAS;CEX;1;0;0
+465;2019-05-03;845.00;ESGUINCE TOBILLO.NEOM;CIE9;232;Esguinces y torceduras;16;Lesiónes e intoxicaciones;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+466;2021-04-23;530.81;REFLUJO ESOFAGICO;CIE9;138;Trastornos esofágicos;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+467;2018-05-02;E87.2;Acidosis;CIE10;55;Trastornos de fluidos y electrólitos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HCOV;HOSPITALIZACION COVID;HOS;0;0;0
+468;2014-02-03;632;ABORTO DIFERIDO (#);CIE9;181;Otras complicaciones del embarazo;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;CMA;0;0;0
+469;2021-03-26;558.9;GASTRITIS,ENTERITIS Y COLITIS NO INFECCIOSA.OTRA Y NEOM;CIE9;154;Gastroenteritis no infecciosa;9;Enfermedades del aparato digestivo;HMUR;U DE CORTA ESTANCIA;HOS;0;0;0
+470;2019-05-25;436;ENFERMEDAD CEREBROVASCULAR AGUDA MAL DEFINIDA (#);CIE9;109;Enfermedades cerebrovasculares agudas;7;Enfermedades del aparato circulatorio;HNER;NEUROLOGIA;HOS;0;0;0
+471;2017-03-28;845.00;ESGUINCE/TORCEDURA DE TOBILLO, SITIO NO ESPECIFICADO;CIE9;232;Esguinces y torceduras;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+472;2017-12-19;382.9;OTITIS MEDIA NEOM;CIE9;92;Otitis media y afecciones relacionadas;6;Enfermedades del sistema nervioso y órganos de los sentidos;UPED;PEDIATRIA GENERAL;URG;0;0;0
+473;2017-12-29;836.3;LUXACION CERRADA ROTULA;CIE9;225;Trastornos articulares y luxaciones relacionadas con traumatismo;16;Lesiónes e intoxicaciones;UOTI;CIR ORTOPEDICA Y TRAUMA INFANT;URG;0;0;0
+474;2018-02-05;381.10;OTITIS MEDIA SEROSA CRONICA.SIMPLE Y NEOM;CIE9;92;Otitis media y afecciones relacionadas;6;Enfermedades del sistema nervioso y órganos de los sentidos;HORI;OTORRINO INFANTIL;CMA;0;0;0
+475;2014-02-21;G43.909;Migraña, no especificada, no intratable, sin estatus migrañoso;CIE10;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;HCOV;HOSPITALIZACION COVID;HOS;1;0;0
+476;2019-02-23;702.1;QUERATOSIS SEBORREICA;CIE9;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+477;2012-05-30;A41.9;Sepsis, microorganismo no especificado;CIE10;2;Septicemia (excepto en trabajo de parto);1;Enfermedad Infecciosa y parasitaria;HUEI;U ENFERMEDADES INFECCIOSAS;HOS;0;0;0
+478;2018-05-21;M54.41;Lumbago con ciática, lado derecho;CIE10;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;CURQ;U RAQUIS;CEX;0;0;0
+479;2016-02-26;112.2;CANDIDIASIS.UROGENITAL OTRA;CIE9;4;Micosis;1;Enfermedad Infecciosa y parasitaria;UPED;PEDIATRIA GENERAL;URG;0;0;0
+480;2019-12-30;525.9;ALTERACION DENTAL Y DE ESTRUCT. DE APOYO NEOM;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+481;2015-09-08;826.0;FRACTURA CERRADA FALANGE PIE;CIE9;230;Fractura de miembro inferior;16;Lesiónes e intoxicaciones;UMUR;MEDICINA URGENCIA;URG;0;0;0
+482;2019-03-18;L03.116;Celulitis de extremidad inferior izquierda;CIE10;197;Infecciones de la piel;12;Enfermedades de la piel y tejido subcutáneo;HUEI;U ENFERMEDADES INFECCIOSAS;HOS;0;0;0
+483;2017-02-03;346.10;MIGRAÑA SIN AURA, SIN MENCION DE MIGRAÑA INTRATABLE NI MENCION DE ESTATUS MIGRAÑOSO;CIE9;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+484;2021-05-03;I12.9;Enfermedad renal crónica hipertensiva con enfermedad renal crónica en estadio 1 a 4 ó con enfermedad renal crónica no especificada;CIE10;99;Hipertensión con complicaciones e hipertensión secundaria;7;Enfermedades del aparato circulatorio;HMIN;MEDICINA INTERNA;HOS;1;0;0
+485;2021-06-30;724.2;LUMBAGO;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+486;2019-07-22;J20.9;Bronquitis aguda, no especificada;CIE10;125;Bronquitis aguda;8;Enfermedades del aparato respiratorio;HMUR;U DE CORTA ESTANCIA;HOS;0;0;0
+487;2011-01-12;923.9;CONTUSION DE PARTE NEOM DEL MIEMBRO SUPERIOR;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+488;2020-10-24;J12.89;Otros tipos de neumonía vírica;CIE10;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;HRHB;REHABILITACION;HOS;0;0;0
+489;2003-01-16;277.4;TRASTORNO EXCRECION BILIRRUBINA;CIE9;58;Otros trastornos nutricionales, endocrinos y metabólicos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HMDH;HEPATOLOGIA;HOS;0;0;0
+490;2021-02-06;648.83;TOLERANCIA ANORMAL GLUCOSA.ANTEPARTO;CIE9;186;Diabetes o tolerancia anormal a la glucosa que complica el embarazo, el parto o el puerperio;11;Complicaciones del embarazo, parto y puerperio;CECR;ENDOCRINOLOGIA Y NUTRICION;CEX;0;0;0
+491;2014-02-22;462;FARINGITIS AGUDA;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+492;2021-07-01;924.20;CONTUSION PIE;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;UOTI;CIR ORTOPEDICA Y TRAUMA INFANT;URG;0;0;0
+493;2020-04-18;300.4;DEPRESION NEUROTICA;CIE9;657;Trastornos del humor;5;Enfermedades Mentales;HMIN;MEDICINA INTERNA;HOS;0;0;0
+494;2020-01-31;706.1;OTROS ACNES;CIE9;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+495;2016-07-26;786.2;TOS;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;1;0
+496;2016-12-01;784.0;CEFALEA;CIE9;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;1;0
+497;2015-12-29;Z20.828;Contacto y (sospecha de) exposición a otras enfermedades víricas transmisibles;CIE10;10;Inmunizaciones y cribaje de enfermedades infecciosas;1;Enfermedad Infecciosa y parasitaria;UMUR;MEDICINA URGENCIA;URG;0;0;0
+498;2018-09-19;N40.0;Hiperplasia prostática benigna sin síntomas de tracto urinario inferior;CIE10;164;Hiperplasia de la próstata;10;Enfermedades del sistema genitourinario;HMDG;GASTROENTEROLOGIA;HOS;1;0;0
+499;2017-02-10;253.3;ENANISMO HIPOFISARIO;CIE9;51;Otros trastornos endocrinos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;CECI;ENDOCRINOLOGIA INFANTIL;CEX;0;0;0
+500;2017-10-24;460;RINOFARINGITIS AGUDA (#)(&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+501;2017-02-27;401.9;HIPERTENSION ESENCIAL.NEOM;CIE9;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;HUMM;U FUNCIONAL MAMA;HOS;0;0;0
+502;2016-05-04;Z86.718;Historia personal de otro tipo de trombosis y embolia venosas;CIE10;118;Flebitis, tromboflebitis y tromboembolismo;7;Enfermedades del aparato circulatorio;HMEL;CH ERNEST LLUCH;HOS;0;0;0
+503;2020-02-24;813.42;FRACTURA CERRADA RADIO EXTREMO INFERIOR OTRA;CIE9;229;Fractura de miembro superior;16;Lesiónes e intoxicaciones;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+504;2019-08-22;J44.9;Enfermedad pulmonar obstructiva crónica, no especificada;CIE10;127;Enfermedad pulmonar obstructiva crónica y bronquiectasia;8;Enfermedades del aparato respiratorio;CREU;REUMATOLOGIA;CEX;1;0;0
+505;2016-04-20;724.5;DOLOR DE ESPALDA NO ESPECIFICADO;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+506;2016-12-17;F41.9;Trastorno de ansiedad, no especificado;CIE10;651;Trastornos por ansiedad;5;Enfermedades Mentales;UMUR;MEDICINA URGENCIA;URG;1;0;0
+507;2018-08-16;576.1;COLANGITIS;CIE9;149;Enfermedades de vías biliares;9;Enfermedades del aparato digestivo;UCIR;CIR GENERAL Y DIGESTIVO;URG;0;0;0
+508;2016-08-23;H16.009;Úlcera corneal no especificada, ojo no especificado;CIE10;91;Otros trastornos del ojo;6;Enfermedades del sistema nervioso y órganos de los sentidos;UOFT;OFTALMOLOGIA;URG;0;0;0
+509;2018-05-17;627.1;HEMORRAGIA POSTMENOPAUSICA;CIE9;173;Trastornos menopáusicos;10;Enfermedades del sistema genitourinario;EGIN;GINECOLOGIA CESP;CEX;0;0;0
+510;2019-10-14;840.0;ESGUINC/TORCED ACROMIOCLAVICULAR (ARTICULACION) (LIGAMENTO);CIE9;232;Esguinces y torceduras;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+511;2016-04-19;650;PARTO NORMAL TOTALMENTE (#);CIE9;196;Embarazo y parto normales;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+512;2016-04-01;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+513;2021-01-18;372.14;CONJUNTIVITIS CRONICA.ALERGICA OTRA;CIE9;90;Inflamación e infección del ojo (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;CALE;ALERGOLOGIA;CEX;0;0;0
+514;2004-05-09;009.1;GASTRITIS,ENTERITIS Y COLITIS PRESUNTAMENTE INFECCIOSA;CIE9;135;Infección intestinal;9;Enfermedades del aparato digestivo;UPED;PEDIATRIA GENERAL;URG;0;0;0
+515;2021-07-16;726.11;TENDINITIS CALCIFICANTE HOMBRO;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+516;2019-12-29;477.9;RINITIS ALERGICA DE CAUSA NO ESPECIFICADA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+517;2012-10-04;634.91;ABORTO ESPONTANEO.SIN COMPLICACION.INCOMPLETO;CIE9;177;Aborto espontáneo;11;Complicaciones del embarazo, parto y puerperio;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0
+518;2014-02-10;Z87.891;Historia personal de dependencia a nicotina;CIE10;663;Códigos de cribaje, historia de salud mental y abuso de sustancias psicotrópicas;5;Enfermedades Mentales;HMDG;GASTROENTEROLOGIA;HOS;0;0;0
+519;2018-06-11;780.2;SINCOPE Y COLAPSO;CIE9;245;Síncope;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;1;0
+520;2018-05-15;E928.9;ACCIDENTE POR CAUSA AMBIENTAL.NEOM;CIE9;2620;Códigos E: No especificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+521;2016-07-06;578.9;HEMORRAGIA GASTROINTESTINAL NEOM;CIE9;153;Hemorragia del aparato digestivo;9;Enfermedades del aparato digestivo;HMDG;GASTROENTEROLOGIA;HOS;0;0;0
+522;2019-04-24;H92.09;Otalgia, oído no especificado;CIE10;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;UMUR;MEDICINA URGENCIA;URG;0;0;0
+523;2018-06-21;250.20;DIABETES CON HIPEROSMOLARIDAD TIPO II O NO ESP. NO ESTABLECIDA COMO INCONTROLADA;CIE9;50;Diabetes mellitus con complicaciones;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+524;2006-04-11;G31.84;Deterioro cognitivo leve;CIE10;81;Otras afecciones del sistema nervioso hereditarias y degenerativas;6;Enfermedades del sistema nervioso y órganos de los sentidos;HMEL;CH ERNEST LLUCH;HOS;1;0;0
+525;2007-10-29;784.0;CEFALEA;CIE9;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;CPED;PEDIATRIA GENERAL;CEX;0;1;0
+526;2020-12-10;009.1;COLITIS, ENTERITIS Y GASTROENTERITIS ORIGEN INFECCIOSO;CIE9;135;Infección intestinal;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+527;2018-11-08;Z74.1;Necesidad de asistencia con cuidado personal;CIE10;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HCOV;HOSPITALIZACION COVID;HOS;0;0;0
+528;2016-11-25;H52.7;Trastorno de refracción no especificado;CIE10;89;Ceguera y defectos de la visión;6;Enfermedades del sistema nervioso y órganos de los sentidos;COFT;OFTALMOLOGIA;CEX;0;0;0
+529;2017-05-21;350.1;NEURALGIA TRIGEMINO;CIE9;95;Otros trastornos del sistema nervioso;6;Enfermedades del sistema nervioso y órganos de los sentidos;HORL;OTORRINOLARINGOLOGIA;CMA;0;0;0
+530;2018-03-01;401.9;HTA NO ESPECIFICADA;CIE9;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+531;2016-11-30;721.90;ESPONDILOSIS CON LOCALIZ. NO ESPECIF. SIN MENCION MIELOPATIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+532;2021-01-04;J18.9;Neumonía, microorganismo no especificado;CIE10;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+533;2017-04-07;486;NEUMONIA ORGANISMO SIN ESPECIFICAR;CIE9;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+534;2014-12-11;536.8;DISPEPSIA Y OTRAS ALTER. ESPECIF. DEL FUNCIONA. DEL ESTOMAGO;CIE9;141;Otros trastornos del estómago y duodeno;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+535;2008-02-13;V60.6;PERSONA QUE VIVE EN INSTITUCION RESIDENCIAL;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HMIN;MEDICINA INTERNA;HOS;0;0;0
+536;2019-01-21;380.10;OTITIS EXTERNA INFECCIOSA NEOM;CIE9;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+537;2014-03-14;M23.203;Trastorno de menisco interno, parte no especificada, debido a desgarro o lesión antiguos, rodilla derecha;CIE10;225;Trastornos articulares y luxaciones relacionadas con traumatismo;16;Lesiónes e intoxicaciones;CMIF;U MIEMBRO INFERIOR;CEX;1;0;0
+538;2005-03-17;922.1;CONTUSION PARED TORAX;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;UMUR;MEDICINA URGENCIA;URG;0;0;0
+539;2014-06-01;366.9;CATARATA NEOM;CIE9;86;Catarata;6;Enfermedades del sistema nervioso y órganos de los sentidos;COFI;OFTALMOLOGIA INFANTIL;CEX;0;0;0
+540;2021-08-02;285.1;ANEMIA POSTHEMORRAGICA AGUDA;CIE9;60;Anemia posthemorrágica aguda;4;Enfermedades de la sangre y órganos hematopoyéticos;HOBS;OBSTETRICIA;HOS;0;0;0
+541;2019-05-03;E78.5;Hiperlipidemia, no especificada;CIE10;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HURO;UROLOGIA;HOS;1;0;0
+542;2018-02-20;H93.19;Acúfenos [tinnitus], oído no especificado;CIE10;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;CORL;OTORRINOLARINGOLOGIA;CEX;0;0;0
+543;2018-12-31;Z74.1;Necesidad de asistencia con cuidado personal;CIE10;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HCOV;HOSPITALIZACION COVID;HOS;0;0;0
+544;2020-05-12;R06.00;Disnea no especificada;CIE10;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+545;2016-10-27;403.0;ENF. RENAL CRONICA HTA MALIGNA;CIE9;99;Hipertensión con complicaciones e hipertensión secundaria;7;Enfermedades del aparato circulatorio;CCVA;ANGIOLOGIA Y CIR VASCULAR;CEX;0;0;0
+546;2016-05-26;K92.1;Melena;CIE10;153;Hemorragia del aparato digestivo;9;Enfermedades del aparato digestivo;HSEP;U SEPTICOS;HOS;0;0;0
+547;2018-12-07;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+548;2018-01-05;680.5;FORUNCULO Y ANTRAX.NALGA;CIE9;197;Infecciones de la piel;12;Enfermedades de la piel y tejido subcutáneo;UCIR;CIR GENERAL Y DIGESTIVO;URG;0;0;0
+549;2019-02-23;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+550;2016-01-27;792.1;CONTENIDO HECES ANORMAL;CIE9;155;Otros trastornos del aparato digestivo;9;Enfermedades del aparato digestivo;CMIN;MEDICINA INTERNA;CEX;0;0;0
+551;2020-02-08;Z92.3;Historia personal de irradiación;CIE10;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HMUR;U DE CORTA ESTANCIA;HOS;0;0;0
+552;2018-06-29;V20.2;CONTROL SALUD RUTINARIO DEL BEBE O NIÑO;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+553;2017-07-04;787.0;NAUSEAS Y VOMITOS;CIE9;250;Náuseas y vómitos;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;1;0
+554;2019-10-22;611.71;MASTODINIA;CIE9;167;Afecciones no malignas de la mama;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+555;2005-10-09;600.00;HIPERTROFIA (BENIGNA) DE PROSTATA SIN OBSTRUCCION URINARIA NI OTROS SINTOMAS DEL TRACTO URINARIO INFERIOR (STUI);CIE9;164;Hiperplasia de la próstata;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+556;2016-07-12;465.0;LARINGOFARINGITIS AGUDA (&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+557;2021-04-13;690.10;DERMATITIS SEBOREICA NO ESPECIFICADA;CIE9;198;Otra afección inflamatoria de la piel;12;Enfermedades de la piel y tejido subcutáneo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+558;2016-09-14;780.6;FIEBRE Y OTROS TRASTORNOS FISIOLOGICOS DE LA REGULACION DE L;CIE9;246;Fiebre de origen desconocido;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UPED;PEDIATRIA GENERAL;URG;0;1;0
+559;2015-10-29;536.8;DISPEPSIA Y OTRAS ALTER. ESPECIF. DEL FUNCIONA. DEL ESTOMAGO;CIE9;141;Otros trastornos del estómago y duodeno;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+560;2006-09-08;V42.0;RIÑON SUSTITUIDO POR TRASPLANTE;CIE9;158;Insuficiencia renal crónica;10;Enfermedades del sistema genitourinario;HUHP;CIR HEPATOBILIOPANCREATICA;HOS;0;0;0
+561;2001-04-18;704.00;ALOPECIA.NEOM;CIE9;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;EDER;DERMATOLOGIA CESP;CEX;0;0;0
+562;2020-10-19;V20.1;CONTROL SALUD-OTRO BEBE O NIÑO SANO QUE RECIBE CUIDADOS;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+563;2018-01-09;826.0;FRACTURA DE UNA O MAS FALANGES DEL PIE-CERRADA;CIE9;230;Fractura de miembro inferior;16;Lesiónes e intoxicaciones;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+564;2021-02-10;I50.9;Insuficiencia cardiaca, no especificada;CIE10;108;Insuficiencia cardíaca congestiva no hipertensiva;7;Enfermedades del aparato circulatorio;UMUR;MEDICINA URGENCIA;URG;1;0;0
+565;2016-09-25;M72.2;Fibromatosis de fascia plantar;CIE10;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;HCHO;HOTEL MEDICALIZADO AC VALENCIA;HOS;0;0;0
+566;2014-07-04;724.2;LUMBAGO;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+567;2019-05-06;707.0;ULCERA DE PRESION;CIE9;199;Úlcera crónica de la piel;12;Enfermedades de la piel y tejido subcutáneo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+568;2021-05-12;R74.0;Elevación inespecífica de niveles de transaminasas y lactatodeshidrogenasa [LDH];CIE10;151;Otras hepatopatías;9;Enfermedades del aparato digestivo;CMDI;*INTERNA*;CEX;0;0;0
+569;2020-12-23;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+570;2008-08-28;724.2;LUMBALGIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+571;2013-11-07;Z20.828;Contacto y (sospecha de) exposición a otras enfermedades víricas transmisibles;CIE10;10;Inmunizaciones y cribaje de enfermedades infecciosas;1;Enfermedad Infecciosa y parasitaria;UMUR;MEDICINA URGENCIA;URG;0;0;0
+572;2019-01-28;727.00;SINOVITIS Y TENOSINOVITIS NO ESPECIFICADO;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+573;2017-03-21;709.9;ENFERMEDAD NO ESPECIFICADA DE LA PIEL Y TEJIDOS SUBCUTANEOS;CIE9;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+574;2019-06-06;079.99;INFECCION POR VIRUS NEOM (I);CIE9;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;UMUR;MEDICINA URGENCIA;URG;0;0;0
+575;2019-02-02;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+576;2007-12-31;789.03;DOLOR ABDOMEN.CUADRANTE INFERIOR DERECHO;CIE9;251;Dolor abdominal;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HCIR;CIR GENERAL Y DIGESTIVO;URG;0;0;0
+577;2012-03-11;370.8;QUERATITIS.OTRA;CIE9;90;Inflamación e infección del ojo (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;UOFT;OFTALMOLOGIA;URG;0;0;0
+578;2016-06-15;669.51;PARTO CON FORCEPS O VENTOSA NEOM.PARTO Y ANTEPARTO;CIE9;194;Parto con fórceps;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+579;2016-10-17;959.4;TRAUMATISMO MANO SALVO DEDO OTRO Y NEOM;CIE9;244;Otras lesiones y afecciones debidas a causas externas;16;Lesiónes e intoxicaciones;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+580;2014-10-25;727.40;QUISTE SINOVIAL NEOM;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;HOS;0;0;0
+581;2021-01-23;372.10;CONJUNTIVITIS CRONICA NO ESPECIFICADA;CIE9;90;Inflamación e infección del ojo (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+582;2019-03-14;E928.9;ACCIDENTE POR CAUSA AMBIENTAL.NEOM;CIE9;2620;Códigos E: No especificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UPED;PEDIATRIA GENERAL;URG;0;0;0
+583;2007-02-11;788.29;RETENCION ORINA.OTRA;CIE9;163;Síntomas genitourinarios y afecciones mal definidas;10;Enfermedades del sistema genitourinario;UMUR;MEDICINA URGENCIA;URG;0;0;0
+584;2019-08-12;519.8;OTRAS ENF. SISTEMA RESPIRATORIO NO CLASIF. BAJO OTROS CONCEP;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+585;2018-10-21;V45.89;ESTADO POSTQUIRURGICO.OTRO;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUR;MEDICINA URGENCIA;URG;0;0;0
+586;2016-05-26;427.31;FIBRILACION AURICULA;CIE9;106;Disritmias cardíacas;7;Enfermedades del aparato circulatorio;UMIN;MEDICINA INTERNA;URG;0;0;0
+587;2019-02-01;D25.9;Leiomioma de útero, no especificado;CIE10;46;Neoplasia benigna del útero;2;Neoplasias;COBS;OBSTETRICIA;CEX;0;0;0
+588;2019-10-11;E78.2;Hiperlipidemia mixta;CIE10;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;CCAR;CARDIOLOGIA;CEX;1;0;0
+589;2020-09-11;V20.2;CONTROL SALUD RUTINARIO DEL BEBE O NIÑO;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+590;2017-09-12;520.6;ENFERMEDAD ERUPCION DIENTE;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;CCMX;CIR MAXILOFACIAL;CEX;0;0;0
+591;2016-06-03;920;CONTUSION CARA,CUERO CABELLUDO Y CUELLO SALVO OJO (#);CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;UOFT;OFTALMOLOGIA;URG;0;0;0
+592;2019-04-10;616.10;VAGINITIS Y VULVOVAGINITIS NEOM;CIE9;168;Enfermedades inflamatorias de los órganos femeninos pelvicos;10;Enfermedades del sistema genitourinario;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+593;2017-03-20;787.91;DIARREA NEOM;CIE9;155;Otros trastornos del aparato digestivo;9;Enfermedades del aparato digestivo;UMUC;URGENCIAS CAMPANAR;URG;0;1;0
+594;2009-01-23;E928.9;ACCIDENTE POR CAUSA AMBIENTAL.NEOM;CIE9;2620;Códigos E: No especificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+595;2019-06-04;R55;Síncope y colapso;CIE10;245;Síncope;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMUR;MEDICINA URGENCIA;URG;0;1;0
+596;2009-12-04;463;AMIGDALITIS AGUDA;CIE9;124;Amigdalitis aguda y crónica;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+597;2021-04-13;787.2;DISFAGIA;CIE9;155;Otros trastornos del aparato digestivo;9;Enfermedades del aparato digestivo;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;1;0
+598;2019-02-10;525.9;ALTERACION DENTAL Y DE ESTRUCT. DE APOYO NEOM;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+599;2016-02-02;380.4;CERUMEN IMPACTADO;CIE9;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+600;2019-06-11;558.9;GASTRITIS,ENTERITIS Y COLITIS NO INFECCIOSA.OTRA Y NEOM;CIE9;154;Gastroenteritis no infecciosa;9;Enfermedades del aparato digestivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+601;2010-11-10;Z20.828;Contacto y (sospecha de) exposición a otras enfermedades víricas transmisibles;CIE10;10;Inmunizaciones y cribaje de enfermedades infecciosas;1;Enfermedad Infecciosa y parasitaria;UMUR;MEDICINA URGENCIA;URG;0;0;0
+602;2016-04-08;780.6;FIEBRE Y OTROS TRASTORNOS FISIOLOGICOS DE LA REGULACION DE L;CIE9;246;Fiebre de origen desconocido;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UPED;PEDIATRIA GENERAL;URG;0;1;0
+603;2016-11-03;726.2;ENFERMEDAD HOMBRO OTRA;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;CUDO;UNIDAD DEL DOLOR;CEX;0;0;0
+604;2012-11-08;380.4;CERUMEN IMPACTADO;CIE9;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+605;2013-07-02;N39.0;Infección de tracto urinario, localización no especificada;CIE10;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;UMUR;MEDICINA URGENCIA;URG;0;0;0
+606;2018-08-14;520.6;ALTERACION EN LA ERUPCION DE DIENTES;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+607;2021-01-04;I25.9;Enfermedad isquémica crónica cardiaca, no especificada;CIE10;101;Aterosclerosis coronaria y otras cardiopatías;7;Enfermedades del aparato circulatorio;CCAR;CARDIOLOGIA;CEX;1;0;0
+608;2019-07-20;724.2;LUMBALGIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;CREU;REUMATOLOGIA;CEX;0;0;0
+609;2018-11-14;N40.1;Hiperplasia prostática benigna con síntomas de tracto urinario inferior;CIE10;164;Hiperplasia de la próstata;10;Enfermedades del sistema genitourinario;HMUR;U DE CORTA ESTANCIA;HOS;1;0;0
+610;2015-04-01;571.2;CIRROSIS HEPATICA ALCOHOLICA;CIE9;663;Códigos de cribaje, historia de salud mental y abuso de sustancias psicotrópicas;5;Enfermedades Mentales;HFAR;FARMACIA;HOS;0;0;0
+611;2019-06-11;784.7;EPISTAXIS;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UORL;OTORRINOLARINGOLOGIA;URG;0;0;0
+612;2018-09-27;272.4;HIPERLIPIDEMIA Y LIPIDEMIA OTRA (&);CIE9;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HCAR;CARDIOLOGIA;HOS;0;0;0
+613;2014-11-26;787.03;VOMITO;CIE9;250;Náuseas y vómitos;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UPED;PEDIATRIA GENERAL;URG;0;1;0
+614;2009-01-08;401.9;HIPERTENSION ESENCIAL.NEOM;CIE9;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;HOFT;OFTALMOLOGIA;CMA;0;0;0
+615;2014-07-25;477.9;RINITIS ALERGICA DE CAUSA NO ESPECIFICADA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+616;2017-07-07;V45.89;ESTADO POSTQUIRURGICO.OTRO;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HHEM;HEMATOLOGIA Y HEMOTERAPIA;HOS;0;0;0
+617;2012-02-16;401.9;HIPERTENSION ESENCIAL.NEOM;CIE9;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+618;2016-11-02;756.71;SINDROME VIENTRE DE CIRUELA;CIE9;217;Otras anomalías congénitas;14;Anomalías Congénitas;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+619;2018-03-05;250.00;DIABETES MELLITUS.NEOM.TIPO II;CIE9;49;Diabetes mellitus sin complicaciones;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;UNER;NEUROLOGIA;URG;0;0;0
+620;2014-09-21;305.1;TRASTORNO POR CONSUMO DE TABACO;CIE9;663;Códigos de cribaje, historia de salud mental y abuso de sustancias psicotrópicas;5;Enfermedades Mentales;HCMX;CIR MAXILOFACIAL;CMA;0;0;0
+621;2017-08-21;522.7;ABSCESO PERIAPICAL DENTAL CON SENO;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+622;2006-12-10;J90;Derrame pleural, no clasificable bajo otro concepto;CIE10;130;Pleuresía, neumotórax y colapso pulmonar;8;Enfermedades del aparato respiratorio;HUTP;U TRASPLANTE PULMONAR;HOS;0;0;0
+623;2020-10-28;466.0;BRONQUITIS AGUDA;CIE9;125;Bronquitis aguda;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+624;2020-11-10;522.7;ABSCESO PERIAPICAL DENTAL CON SENO;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+625;2017-04-07;735.3;DEDO GORDO DEL PIE HALLUX MALLEUS;CIE9;208;Deformidades adquiridas del pie;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+626;2017-06-21;R55;Síncope y colapso;CIE10;245;Síncope;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;ECAR;CARDIOLOGIA CESP;CEX;0;1;0
+627;2018-06-08;519.8;OTRAS ENF. SISTEMA RESPIRATORIO NO CLASIF. BAJO OTROS CONCEP;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+628;2019-01-24;919.8;OTRA/NEOM LES SUPERF/-SIN INFECCION-OTRO SITIO/MULTIPL/NEOM;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+629;2013-09-21;465.9;INFECCION VIA AEREA SUPERIOR AGUDA.NEOM (&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+630;2010-04-27;185;NEOPLASIA MALIGNA PROSTATA (#);CIE9;29;Cáncer de próstata;2;Neoplasias;CURD;URODINAMICA;CEX;0;0;0
+631;2021-02-24;805.4;FRACTURA CERRADA VERTEBRA LUMBAR SIN LESION MEDULA;CIE9;231;Otras fracturas;16;Lesiónes e intoxicaciones;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;HOS;0;0;0
+632;2014-01-27;521.00;CARIES DENTAL.NEOM;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;UPED;PEDIATRIA GENERAL;URG;0;0;0
+633;2021-02-09;380.4;CERUMEN IMPACTADO;CIE9;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;UMUR;MEDICINA URGENCIA;URG;0;0;0
+634;2014-10-05;854.00;LESION INTRACRANEAL CERRADA.CONCIENCIA NEOM;CIE9;233;Lesión intracraneal;16;Lesiónes e intoxicaciones;UMUR;MEDICINA URGENCIA;URG;0;0;0
+635;2017-11-02;465.8;OTRAS LOCALIZACIONES MULTIPLES DE INF.RESPIRATORIA VIA SUPER;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+636;2018-01-15;C18.9;Neoplasia maligna de colon, no especificada;CIE10;14;Cáncer del colon;2;Neoplasias;HDPQ;U DOLOR AGUDO POSTQUIRURGICO;HOS;1;0;0
+637;1998-09-30;M79.2;Neuralgia y neuritis, no especificadas;CIE10;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;HMIN;MEDICINA INTERNA;HOS;0;0;0
+638;2011-03-28;787.03;SOLO VOMITOS;CIE9;250;Náuseas y vómitos;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;1;0
+639;2012-10-23;053.19;OTRAS COMPLICACIONES DEL SISTEMA NERVIOSO CENTRAL;CIE9;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+640;2017-12-19;454.9;VENAS VARICOSAS ASINTOMATICAS;CIE9;119;Venas varicosas de las extremidades inferiores;7;Enfermedades del aparato circulatorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+641;1996-12-11;O24.419;Diabetes mellitus gestacional en el embarazo, con control no especificado;CIE10;186;Diabetes o tolerancia anormal a la glucosa que complica el embarazo, el parto o el puerperio;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+642;2019-03-22;574.20;COLELITIASIS.SIN COLECISTITIS.SIN OBSTRUCCION;CIE9;149;Enfermedades de vías biliares;9;Enfermedades del aparato digestivo;URGE;URGENCIAS;URG;0;0;0
+643;2009-12-20;707.9;ULCERA CRONICA DE SITIO NO ESPECIFICADO;CIE9;199;Úlcera crónica de la piel;12;Enfermedades de la piel y tejido subcutáneo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+644;2018-05-29;285.9;ANEMIA NO ESPECIFICADA;CIE9;59;Anemias carenciales y otras;4;Enfermedades de la sangre y órganos hematopoyéticos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+645;2019-07-16;O62.1;Inercia uterina secundaria;CIE10;190;Sufrimiento fetal y contracciones anomalas en el parto;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+646;2021-01-28;726.30;ENTESOPATIA CODO.NEOM;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+647;2019-08-26;276.51;DESHIDRATACION;CIE9;55;Trastornos de fluidos y electrólitos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;UPED;PEDIATRIA GENERAL;URG;0;0;0
+648;2017-10-19;O60.14X2;Trabajo de parto prematuro en el tercer trimestre con parto prematuro del tercer trimestre, feto 2;CIE10;184;Parto prematuro o amenaza de parto prematuro;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+649;2017-10-30;V62.9;CIRCUNSTANCIA PSICOSOCIAL.NEOM;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HNEN;NEONATOLOGIA;HOS;0;0;0
+650;2017-01-26;593.89;OTREA ALTERACION RENAL Y URETERAL ESPECIFICADA NCOC;CIE9;161;Otras enfermedades del riñón y uréteres;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+651;2016-10-21;645.20;EMBARAZO PROLONGADO.NEOM;CIE9;185;Embarazo prolongado;11;Complicaciones del embarazo, parto y puerperio;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0
+652;2013-03-31;034.0;ANGINA ESTREPTOCOCICA;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;1;0
+653;2016-02-25;307.81;PSICALGIA CABEZA POR TENSION (I);CIE9;670;Trastornos mentales misceláneos;5;Enfermedades Mentales;UMUR;MEDICINA URGENCIA;URG;0;0;0
+654;2017-09-25;034.0;ANGINA POR ESTREPTOCOCO;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;1;0
+655;2017-11-29;465.8;INFECCION VIA AEREA SUPERIOR AGUDA.OTRA (&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UPED;PEDIATRIA GENERAL;URG;0;0;0
+656;2017-04-15;N97.1;Infertilidad femenina de origen tubárico;CIE10;174;Infertilidad femenina;10;Enfermedades del sistema genitourinario;CREP;REPRODUCCION;CEX;1;0;0
+657;2020-12-08;681.11;ONIQUIA Y PARONIQUIA DEDO PIE;CIE9;197;Infecciones de la piel;12;Enfermedades de la piel y tejido subcutáneo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+658;2020-09-21;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+659;2015-03-02;I50.9;Insuficiencia cardiaca, no especificada;CIE10;108;Insuficiencia cardíaca congestiva no hipertensiva;7;Enfermedades del aparato circulatorio;HUML;U MEDIA LARGA ESTANCIA;HOS;1;0;0
+660;2017-03-20;722.52;DEGENERACION DISCO INTERVERTEBRAL LUMBAR O LUMBOSACRAL;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;CURQ;U RAQUIS;CEX;0;0;0
+661;2017-01-09;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+662;2016-08-23;786.09;OTRA DISNEA Y ALTERACION RESPIRATORIAS;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+663;2010-11-18;R74.0;Elevación inespecífica de niveles de transaminasas y lactatodeshidrogenasa [LDH];CIE10;151;Otras hepatopatías;9;Enfermedades del aparato digestivo;HCOV;HOSPITALIZACION COVID;HOS;0;0;0
+664;2004-09-22;E968.8;AGRESION POR OTRO MEDIO;CIE9;2619;Códigos E: Otro especificado - nec;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUR;MEDICINA URGENCIA;URG;0;0;0
+665;2020-09-09;Z79.52;Uso prolongado (actual) de esteroides sistémicos;CIE10;257;Otra asistencia posterior;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HUEI;U ENFERMEDADES INFECCIOSAS;HOS;0;0;0
+666;2009-11-14;770.3;HEMORRAGIA PULMON NEONATO;CIE9;224;Otras afecciones perinatales;15;Determinadas afecciones que se originan en el período perinatal;HNEN;NEONATOLOGIA;HOS;0;0;0
+667;2004-09-14;616.3;ABSCESO GLANDULA DE BARTHOLINO;CIE9;168;Enfermedades inflamatorias de los órganos femeninos pelvicos;10;Enfermedades del sistema genitourinario;HOBS;OBSTETRICIA;CMA;0;0;0
+668;2015-04-17;780.6;FIEBRE Y OTROS TRASTORNOS FISIOLOGICOS DE LA REGULACION DE L;CIE9;246;Fiebre de origen desconocido;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UPED;PEDIATRIA GENERAL;URG;0;1;0
+669;2016-02-16;924.9;CONTUSION NEOM;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+670;2012-11-30;416.9;ENFERMEDAD CARDIOPULMONAR CRONICA.NEOM;CIE9;103;Enfermedad cardiopulmonar;7;Enfermedades del aparato circulatorio;HUHT;UNIDAD HEMOSTASIA Y TROMBOSIS;HOS;0;0;0
+671;2016-11-28;628.9;ESTERILIDAD FEMENINA.NEOM;CIE9;174;Infertilidad femenina;10;Enfermedades del sistema genitourinario;HREP;REPRODUCCION;CMA;0;0;0
+672;2014-04-14;787.91;DIARREA;CIE9;155;Otros trastornos del aparato digestivo;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;1;0
+673;2021-01-25;V23.9;SUPERVISION EMBARAZO ALTO RIESGO.NEOM;CIE9;195;Otras complicaciones del nacimiento y puerperio que afectan al tratamiento de la madre;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+674;2017-09-08;Z94.2;Estado de trasplante de pulmón;CIE10;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;CRES;REHABILITACION RESPIRATORIA;CEX;1;0;0
+675;2020-07-14;380.4;CERUMEN IMPACTADO;CIE9;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;CORL;OTORRINOLARINGOLOGIA;CEX;0;0;0
+676;2014-03-17;272.0;HIPERCOLESTEROLEMIA PURA;CIE9;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+677;2019-11-06;723.5;TORTICOLIS NEOM;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;UPED;PEDIATRIA GENERAL;URG;0;0;0
+678;2016-09-29;M54.5;Dolor en la parte inferior de la espalda;CIE10;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+679;2019-02-03;I63.50;Infarto cerebral debido a oclusión o estenosis no especificada de arteria cerebral no especificada;CIE10;109;Enfermedades cerebrovasculares agudas;7;Enfermedades del aparato circulatorio;CFON;FONIATRIA;CEX;1;0;0
+680;2014-11-24;785.1;PALPITACION;CIE9;106;Disritmias cardíacas;7;Enfermedades del aparato circulatorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+681;2020-10-27;847.0;ESGUINCE CUELLO;CIE9;232;Esguinces y torceduras;16;Lesiónes e intoxicaciones;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+682;2011-01-15;728.85;ESPASMO MUSCULO;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+683;2015-03-03;M34.9;Esclerosis sistémica, no especificada;CIE10;210;Lupus eritematoso sistémico y trastornos del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;1;0;0
+684;2016-10-14;G82.50;Tetraplejia, no especificada;CIE10;82;Parálisis;6;Enfermedades del sistema nervioso y órganos de los sentidos;HMIN;MEDICINA INTERNA;HOS;1;0;0
+685;2014-04-10;464.00;LARINGITIS AGUDA SIN MENCION DE OBSTRUCCION;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+686;2017-03-31;528.2;AFTAS BUCALES;CIE9;137;"Enfermedades de la boca; excluyendo las dentales";9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+687;2018-10-25;355.9;MONONEURITIS NEOM;CIE9;95;Otros trastornos del sistema nervioso;6;Enfermedades del sistema nervioso y órganos de los sentidos;CNER;NEUROLOGIA;CEX;0;0;0
+688;2018-03-23;272.1;HIPERGLICERIDEMIA PURA;CIE9;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+689;2018-05-11;285.9;ANEMIA.NEOM;CIE9;59;Anemias carenciales y otras;4;Enfermedades de la sangre y órganos hematopoyéticos;CGIN;GINECOLOGIA;CEX;0;0;0
+690;2014-11-19;715.16;OSTEOARTROSIS LOCALIZADA PRIMARIA.RODILLA;CIE9;203;Osteoartritis;13;Enfermedades del sistema osteomuscular y tejido conectivo;HDPQ;U DOLOR AGUDO POSTQUIRURGICO;HOS;0;0;0
+691;2015-11-10;300.00;ESTADO DE ANSIEDAD NO ESPECIFICADO;CIE9;651;Trastornos por ansiedad;5;Enfermedades Mentales;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+692;2016-02-18;009.1;COLITIS, ENTERITIS Y GASTROENTERITIS ORIGEN INFECCIOSO;CIE9;135;Infección intestinal;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+693;2017-05-13;M05.10;Enfermedad pulmonar reumatoidea con artritis reumatoide, localización no especificada;CIE10;202;Artritis reumatoide y enfermedades relacionadas;13;Enfermedades del sistema osteomuscular y tejido conectivo;HNEM;NEUMOLOGIA;HOS;1;0;0
+694;2007-03-07;078.10;VERRUGA POR VIRUS.NEOM;CIE9;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;UMUR;MEDICINA URGENCIA;URG;0;0;0
+695;2016-08-19;V20.2;CONTROL SALUD RUTINARIO DEL BEBE O NIÑO;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+696;2014-10-07;R54;Debilidad física relacionada con edad;CIE10;653;Demencia con delirium, trastornos amnésicos y otros trastornos cognitivos;5;Enfermedades Mentales;HMDG;GASTROENTEROLOGIA;HOS;1;0;0
+697;2016-11-26;585.9;ENFERMEDAD RENAL CRONICA.NEOM;CIE9;158;Insuficiencia renal crónica;10;Enfermedades del sistema genitourinario;UNEF;NEFROLOGIA;URG;0;0;0
+698;2021-07-09;465.8;INFECCION VIA AEREA SUPERIOR AGUDA.OTRA (&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UPED;PEDIATRIA GENERAL;URG;0;0;0
+699;2020-07-09;G40.909;Epilepsia, no especificada, no intratable, sin estado de mal epiléptico;CIE10;83;Epilepsia y convulsiones;6;Enfermedades del sistema nervioso y órganos de los sentidos;HOTI;CIR ORTOPEDICA Y TRAUMA INFANT;HOS;1;0;0
+700;2018-11-08;585.9;ENFERMEDAD RENAL CRONICA.NEOM;CIE9;158;Insuficiencia renal crónica;10;Enfermedades del sistema genitourinario;CERC;ENF RENAL CRONICA Y TERAP SUST;CEX;0;0;0
+701;2017-02-23;780.4;VERTIGO Y MAREO;CIE9;93;Afecciones asociadas con mareo o vértigo;6;Enfermedades del sistema nervioso y órganos de los sentidos;UMUR;MEDICINA URGENCIA;URG;0;0;0
+702;2019-02-19;078.0;MOLLUSCUM CONTAGIOSUM;CIE9;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+703;2012-01-06;Z23;Contacto para vacunación;CIE10;10;Inmunizaciones y cribaje de enfermedades infecciosas;1;Enfermedad Infecciosa y parasitaria;HOBS;OBSTETRICIA;HOS;0;0;0
+704;2017-05-23;V41.0;PROBLEMAS VISUALES;CIE9;89;Ceguera y defectos de la visión;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+705;2018-11-30;401.9;HTA NO ESPECIFICADA;CIE9;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+706;2016-05-19;Y92.230;Habitación del paciente en hospital como lugar del acontecimiento de la causa externa;CIE10;2621;Códigos E: Lugar del acontecimiento;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HMEL;CH ERNEST LLUCH;HOS;0;0;0
+707;2012-07-06;401.9;HTA NO ESPECIFICADA;CIE9;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+708;2017-05-23;582.1;GLOMERULONEFRITIS CRONICA.CON LESION MEMBRANOSA;CIE9;156;Nefritis, nefrosis y esclerosis renal;10;Enfermedades del sistema genitourinario;CNEF;NEFROLOGIA;CEX;0;0;0
+709;2019-01-14;780.57;APNEA SUEÑO OTRA Y NEOM;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;CSON;SUEÑO;CEX;0;0;0
+710;2018-03-23;M54.5;Dolor en la parte inferior de la espalda;CIE10;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;ECOT;CIR ORTOPEDICA TRAUMA CESP;CEX;0;0;0
+711;2020-12-23;599.0;INFECCION TRACTO URINARIO NEOM (&);CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;CURO;UROLOGIA;CEX;0;0;0
+712;2020-04-07;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+713;2021-01-25;786.2;TOS;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;1;0
+714;2018-10-19;379.21;DEGENERACION CUERPO VITREO;CIE9;91;Otros trastornos del ojo;6;Enfermedades del sistema nervioso y órganos de los sentidos;UOFT;OFTALMOLOGIA;URG;0;0;0
+715;2014-01-08;681.02;ONIQUIA Y PARONIQUIA DE DEDO MANO;CIE9;197;Infecciones de la piel;12;Enfermedades de la piel y tejido subcutáneo;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+716;2021-06-28;692.9;DERMATITIS POR CAUSA NO ESPECIFICADA;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+717;2012-08-20;854.00;LESION INTRACRANEAL CERRADA.CONCIENCIA NEOM;CIE9;233;Lesión intracraneal;16;Lesiónes e intoxicaciones;UMUR;MEDICINA URGENCIA;URG;0;0;0
+718;2014-12-03;466.19;BRONQUIOLITIS AGUDA DEBIDO A OTROS ORGANISMOS INFECCIOSOS;CIE9;125;Bronquitis aguda;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+719;2019-08-27;605;FIMOSIS (#);CIE9;166;Otros trastornos genitales masculinos;10;Enfermedades del sistema genitourinario;HCGI;CIR PEDIATRICA;CEX;0;0;0
+720;2019-02-11;691.8;OTROS DERMATITIS ATOPICA Y ESTADOS RELACIONADOS;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+721;2017-10-25;658.11;ROTURA PREMATURA MEMBRANA.PARTO Y ANTEPARTO;CIE9;191;Polihidramnios y otros problemas de la cavidad amniótica;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+722;2014-03-21;E928.9;ACCIDENTE POR CAUSA AMBIENTAL.NEOM;CIE9;2620;Códigos E: No especificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+723;2014-04-28;280.9;ANEMIA POR CARENCIA HIERRO.NEOM;CIE9;59;Anemias carenciales y otras;4;Enfermedades de la sangre y órganos hematopoyéticos;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;CMA;0;0;0
+724;2014-12-16;L02.91;Absceso cutáneo, no especificado;CIE10;197;Infecciones de la piel;12;Enfermedades de la piel y tejido subcutáneo;UCMX;CIR MAXILOFACIAL;URG;0;0;0
+725;2019-07-15;786.50;DOLOR TORAX.NEOM;CIE9;102;Dolor torácico no específicado;7;Enfermedades del aparato circulatorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+726;2016-09-27;648.83;TOLERANCIA ANORMAL GLUCOSA.ANTEPARTO;CIE9;186;Diabetes o tolerancia anormal a la glucosa que complica el embarazo, el parto o el puerperio;11;Complicaciones del embarazo, parto y puerperio;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0
+727;2013-03-24;585.5;ENFERMEDAD RENAL CRONICA.ESTADIO V;CIE9;158;Insuficiencia renal crónica;10;Enfermedades del sistema genitourinario;HNEF;NEFROLOGIA;HOS;0;0;0
+728;2014-11-20;V82.9;CRIBA ESPECIAL ENFERMEDAD.NEOM;CIE9;258;Otros cribajes por sospecha de enfermedad (se excluyen  trastornos mentales y enfermedades infecciosas);17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UPSI;PSIQUIATRIA;URG;0;0;0
+729;2020-08-18;272.1;HIPERGLICERIDEMIA PURA;CIE9;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+730;2014-04-07;E78.5;Hiperlipidemia, no especificada;CIE10;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HUMM;U FUNCIONAL MAMA;HOS;1;0;0
+731;2021-02-06;V58.67;MEDICACION LARGA DURACION.INSULINA;CIE9;257;Otra asistencia posterior;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HONC;ONCOLOGIA MEDICA;HOS;0;0;0
+732;2016-09-27;845.00;ESGUINCE TOBILLO.NEOM;CIE9;232;Esguinces y torceduras;16;Lesiónes e intoxicaciones;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+733;2019-05-29;D64.9;Anemia, no especificada;CIE10;59;Anemias carenciales y otras;4;Enfermedades de la sangre y órganos hematopoyéticos;HOBS;OBSTETRICIA;HOS;0;0;0
+734;2019-03-16;M31.5;Arteritis de células gigantes con polimialgia reumática;CIE10;210;Lupus eritematoso sistémico y trastornos del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;CREU;REUMATOLOGIA;CEX;1;0;0
+735;2020-02-26;789.00;DOLOR ABDOMEN.NEOM;CIE9;251;Dolor abdominal;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UPED;PEDIATRIA GENERAL;URG;0;0;0
+736;2019-05-10;564.0;ESTREÑIMIENTO;CIE9;155;Otros trastornos del aparato digestivo;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+737;2021-05-12;723.1;CERVICALGIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+738;2018-01-11;726.70;ENTESOPATIA DE TOBILLO Y TARSO NO ESPECIFICADO;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+739;2019-11-22;626.9;ALTERACION MENSTRUAL NO ESPECIFICADA;CIE9;171;Trastornos menstruales;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+740;2005-02-28;Z23;Contacto para vacunación;CIE10;10;Inmunizaciones y cribaje de enfermedades infecciosas;1;Enfermedad Infecciosa y parasitaria;HOBS;OBSTETRICIA;HOS;0;0;0
+741;2020-04-07;078.0;MOLLUSCUM CONTAGIOSUM;CIE9;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+742;2018-03-14;462;FARINGITIS AGUDA;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+743;2012-01-16;K12.0;Aftas orales recidivantes;CIE10;137;"Enfermedades de la boca; excluyendo las dentales";9;Enfermedades del aparato digestivo;UPED;PEDIATRIA GENERAL;URG;0;0;0
+744;2016-07-18;463;AMIGDALITIS AGUDA;CIE9;124;Amigdalitis aguda y crónica;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+745;2013-06-30;284.19;PANTITOPENIA.OTRA;CIE9;59;Anemias carenciales y otras;4;Enfermedades de la sangre y órganos hematopoyéticos;HONC;ONCOLOGIA MEDICA;HOS;0;0;0
+746;2019-01-18;729.5;DOLOR MIEMBRO;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+747;2018-02-28;Z96.1;Presencia de lente intraocular;CIE10;86;Catarata;6;Enfermedades del sistema nervioso y órganos de los sentidos;HOFT;OFTALMOLOGIA;CMA;1;0;0
+748;2019-02-27;S72.001D;Fractura de parte no especificada del cuello de fémur derecho, contacto sucesivo por fractura cerrada con curas rutinarias;CIE10;226;Fractura de cuello del fémur (cadera);16;Lesiónes e intoxicaciones;CCOT;CIR ORTOPEDICA TRAUMA;CEX;0;0;0
+749;2016-03-30;527.2;SIALOADENITIS;CIE9;137;"Enfermedades de la boca; excluyendo las dentales";9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+750;2016-09-06;263.9;DESNUTRICION PROTEICO CALORICA.NEOM;CIE9;52;Carencias nutricionales;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HUTA;U TRASTORNOS ALIMENTARIOS;HOS;0;0;0
+751;2017-10-03;785.6;AUMENTO TAMAÑO GANGLIO LINFATICO;CIE9;247;Linfadenitis;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;CUMM;U FUNCIONAL MAMA;CEX;0;0;0
+752;2010-04-01;785.51;SHOCK CARDIOGENICO;CIE9;249;Shock;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HCAR;CARDIOLOGIA;HOS;0;0;0
+753;2018-03-11;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+754;2020-07-28;R05;Tos;CIE10;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;1;0
+755;2019-05-20;241.9;BOCIO NODULAR NO TOXICO Y NEOM;CIE9;48;Trastornos tiroideos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;CUEM;CIR ENDOCRINOMETABOLICA;CEX;0;0;0
+756;2018-04-25;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+757;2016-06-28;472.1;FARINGITIS CRONICA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+758;2021-01-05;272.0;HIPERCOLESTEROLEMIA PURA (&);CIE9;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HURO;UROLOGIA;HOS;0;0;0
+759;2017-02-28;J12.89;Otros tipos de neumonía vírica;CIE10;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;HUMI;U MEDICINA INTENSIVA;HOS;0;0;0
+760;2017-12-18;780.79;MALESTAR Y FATIGA.OTRO;CIE9;252;Malestar general y fatiga;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMUR;MEDICINA URGENCIA;URG;0;1;0
+761;2008-08-31;463;AMIGDALITIS AGUDA;CIE9;124;Amigdalitis aguda y crónica;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+762;2017-12-27;785.6;AUMENTO TAMAÑO GANGLIO LINFATICO;CIE9;247;Linfadenitis;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMUR;MEDICINA URGENCIA;URG;0;0;0
+763;2019-05-22;034.1;FIEBRE ESCARLATINA;CIE9;3;Otras infecciones bacterianas;1;Enfermedad Infecciosa y parasitaria;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+764;2018-04-03;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+765;2019-09-12;382.9;OTITIS MEDIA NEOM;CIE9;92;Otitis media y afecciones relacionadas;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+766;2007-10-07;959.5;TRAUMATISMO DEDO MANO OTRO Y NEOM;CIE9;244;Otras lesiones y afecciones debidas a causas externas;16;Lesiónes e intoxicaciones;UOTI;CIR ORTOPEDICA Y TRAUMA INFANT;URG;0;0;0
+767;2018-11-14;719.42;DOLOR ARTICULAR-BRAZO;CIE9;204;Otros trastornos articulares no traumáticos;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+768;2019-11-13;078.10;VERRUGAS VIRALES INESPECIFICAS;CIE9;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+769;2010-01-01;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+770;2019-02-01;078.10;VERRUGAS VIRALES INESPECIFICAS;CIE9;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+771;2008-10-17;G30.9;Enfermedad de Alzheimer, no especificada;CIE10;653;Demencia con delirium, trastornos amnésicos y otros trastornos cognitivos;5;Enfermedades Mentales;HREA;REANIMACION;HOS;1;0;0
+772;2020-04-04;I87.2;Insuficiencia venosa (crónica) (periférica);CIE10;121;Otras enfermedades de las venas y vasos linfáticos;7;Enfermedades del aparato circulatorio;CXVI;RXD VASCULAR INTERVENCIONISTA;CEX;0;0;0
+773;2014-09-08;462;FARINGITIS AGUDA;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+774;2014-11-09;301.9;TRASTORNO PERSONALIDAD.NEOM (&);CIE9;658;Trastornos de la personalidad;5;Enfermedades Mentales;CMUS;CENTRO DE MUSEO;CEX;0;0;0
+775;2020-11-18;724.2;LUMBAGO;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+776;2017-08-18;380.4;CERUMEN IMPACTADO;CIE9;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+777;2016-02-19;536.8;DISPEPSIA Y OTRAS ALTER. ESPECIF. DEL FUNCIONA. DEL ESTOMAGO;CIE9;141;Otros trastornos del estómago y duodeno;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+778;2016-12-12;726.32;EPICONDILITIS LATERAL;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;CRHB;REHABILITACION;CEX;0;0;0
+779;2016-08-21;G30.9;Enfermedad de Alzheimer, no especificada;CIE10;653;Demencia con delirium, trastornos amnésicos y otros trastornos cognitivos;5;Enfermedades Mentales;UMUR;MEDICINA URGENCIA;URG;1;0;0
+780;2014-04-23;930.9;CUERPO EXTRAÑO OJO.NEOM;CIE9;244;Otras lesiones y afecciones debidas a causas externas;16;Lesiónes e intoxicaciones;UOFT;OFTALMOLOGIA;URG;0;0;0
+781;2018-11-29;571.1;HEPATITIS ALCOHOLICA AGUDA;CIE9;663;Códigos de cribaje, historia de salud mental y abuso de sustancias psicotrópicas;5;Enfermedades Mentales;HMDH;HEPATOLOGIA;HOS;0;0;0
+782;2005-10-31;K40.20;Hernia inguinal bilateral, sin obstrucción ni gangrena, no especificada como recidivada;CIE10;143;Hernia abdominal;9;Enfermedades del aparato digestivo;CCEP;CIR CORTA ESTANCIA Y PARED;CEX;0;0;0
+783;2021-03-17;S73.003A;Subluxación no especificada de cadera no especificada, contacto inicial;CIE10;225;Trastornos articulares y luxaciones relacionadas con traumatismo;16;Lesiónes e intoxicaciones;HREA;REANIMACION;HOS;0;0;0
+784;2006-09-23;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+785;2021-02-03;535.0;GASTRITIS AGUDA;CIE9;140;Gastritis y duodenitis;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+786;2014-10-26;478.5;ENFERMEDAD CUERDA VOCAL OTRA;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;CORL;OTORRINOLARINGOLOGIA;CEX;0;0;0
+787;2020-06-24;783.2;PERDIDA ANORMAL DE PESO Y BAJO PESO;CIE9;58;Otros trastornos nutricionales, endocrinos y metabólicos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+788;2008-01-08;112.0;CANDIDIASIS BUCAL;CIE9;4;Micosis;1;Enfermedad Infecciosa y parasitaria;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+789;2017-10-04;528.9;ENFERMEDAD TEJIDO BLANDO BOCA.OTRA Y NEOM;CIE9;137;"Enfermedades de la boca; excluyendo las dentales";9;Enfermedades del aparato digestivo;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+790;2016-11-09;N39.0;Infección de tracto urinario, localización no especificada;CIE10;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;CURO;UROLOGIA;CEX;0;0;0
+791;2017-07-07;998.59;INFECCION POSTOPERATORIA OTRA;CIE9;238;Complicaciones de procedimientos quirúrgicos o atención sanitaria;16;Lesiónes e intoxicaciones;UMUR;MEDICINA URGENCIA;URG;0;0;1
+792;2016-07-16;078.11;CONDILOMA ACUMINADO;CIE9;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;HMDG;GASTROENTEROLOGIA;HOS;0;0;0
+793;2019-02-15;788.1;DISURIA;CIE9;163;Síntomas genitourinarios y afecciones mal definidas;10;Enfermedades del sistema genitourinario;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+794;2008-02-15;041.19;INFECCION POR ESTAFILOCOCO EN ENF COC Y NEOM.OTRO (I);CIE9;3;Otras infecciones bacterianas;1;Enfermedad Infecciosa y parasitaria;HNEM;NEUMOLOGIA;HOS;0;0;0
+795;2019-07-24;780.99;SINTOMA GENERAL.OTRO;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUR;MEDICINA URGENCIA;URG;0;0;0
+796;2020-05-08;519.11;BRONCOESPASMO AGUDO;CIE9;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+797;2015-03-16;W19.XXXA;Caída no especificada, contacto inicial;CIE10;2603;Códigos E: Caída;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+798;2014-06-03;536.8;DISPEPSIA Y OTRAS ALTER. ESPECIF. DEL FUNCIONA. DEL ESTOMAGO;CIE9;141;Otros trastornos del estómago y duodeno;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+799;2019-02-02;463;AMIGDALITIS AGUDA;CIE9;124;Amigdalitis aguda y crónica;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+800;2014-10-20;726.32;EPICONDILITIS LATERAL;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+801;2010-12-03;272.1;HIPERTRIGLICERIDEMIA PURA (&);CIE9;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;EECR;ENDOCRINOLOGIA-NUTRICION CESP;CEX;0;0;0
+802;2021-02-10;127.4;ENTEROBIASIS;CIE9;8;Otras infecciones incluyendo las parasitarias;1;Enfermedad Infecciosa y parasitaria;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+803;2018-03-25;J98.09;Otras enfermedades de los bronquios, no clasificables bajo otro concepto;CIE10;134;Otra enfermedad de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+804;2016-11-19;E11.9;Diabetes mellitus tipo 2 sin complicaciones;CIE10;49;Diabetes mellitus sin complicaciones;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HMUR;U DE CORTA ESTANCIA;HOS;1;0;0
+805;2017-12-19;S63.418A;Rotura traumática de ligamento colateral de otro dedo de la mano a nivel de articulaciones metacarpofalángica e interfalángica, contacto inicial;CIE10;232;Esguinces y torceduras;16;Lesiónes e intoxicaciones;CTRA;U TRAUMATOLOGIA/FRACTURAS;CEX;0;0;0
+806;2015-12-11;998.32;DEHISCENCIA HERIDA OPERATORIA EXTERNA Y NEOM;CIE9;238;Complicaciones de procedimientos quirúrgicos o atención sanitaria;16;Lesiónes e intoxicaciones;UMUR;MEDICINA URGENCIA;URG;0;0;1
+807;2013-11-26;530.19;ESOFAGITIS.OTRA;CIE9;138;Trastornos esofágicos;9;Enfermedades del aparato digestivo;CECR;ENDOCRINOLOGIA Y NUTRICION;HOS;0;0;0
+808;2010-01-05;413.9;ANGOR PECTORIS.OTRO Y NEOM;CIE9;101;Aterosclerosis coronaria y otras cardiopatías;7;Enfermedades del aparato circulatorio;UCAR;CARDIOLOGIA;URG;0;0;0
+809;2018-03-13;845.00;ESGUINCE/TORCEDURA DE TOBILLO, SITIO NO ESPECIFICADO;CIE9;232;Esguinces y torceduras;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+810;2017-03-30;V72.85;EXAMEN ESPECIFICO OTRO.OTRO;CIE9;256;Examen y evaluación médica;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;CGIN;GINECOLOGIA;CEX;0;0;0
+811;2014-02-08;272.0;HIPERCOLESTEROLEMIA PURA;CIE9;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+812;2014-11-29;486;NEUMONIA ORGANISMO SIN ESPECIFICAR;CIE9;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;-1;[Vacio];APRIMARIA;0;0;0
+813;2007-02-05;V67.9;REVISION TRATAMIENTO.NEOM;CIE9;257;Otra asistencia posterior;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;CGIN;GINECOLOGIA;CEX;0;0;0
+814;2021-08-12;515;FIBROSIS PULMON POSTINFLAMATORIA (#);CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;CNEM;NEUMOLOGIA;CEX;0;0;0
+815;2014-01-14;783.2;PERDIDA ANORMAL DE PESO Y BAJO PESO;CIE9;58;Otros trastornos nutricionales, endocrinos y metabólicos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;UPED;PEDIATRIA GENERAL;URG;0;0;0
+816;2008-10-31;465.9;INFECCION VIA AEREA SUPERIOR AGUDA.NEOM (&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+817;2014-11-29;C69.21;Neoplasia maligna de retina derecha;CIE10;41;Otro cancer primario no especificado;2;Neoplasias;HOFI;OFTALMOLOGIA INFANTIL;CMA;1;0;0
+818;2017-03-22;599.0;INFECCION DE VIAS URINARIAS SITIO NEOM;CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+819;2019-04-24;I50.9;Insuficiencia cardiaca, no especificada;CIE10;108;Insuficiencia cardíaca congestiva no hipertensiva;7;Enfermedades del aparato circulatorio;HCAR;CARDIOLOGIA;HOS;1;0;0
+820;2013-05-17;N39.3;Incontinencia de esfuerzo (femenina) (masculina);CIE10;163;Síntomas genitourinarios y afecciones mal definidas;10;Enfermedades del sistema genitourinario;HGIN;GINECOLOGIA;HOS;1;0;0
+821;2014-11-24;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+822;2020-12-12;558.9;GASTRITIS,ENTERITIS Y COLITIS NO INFECCIOSA.OTRA Y NEOM;CIE9;154;Gastroenteritis no infecciosa;9;Enfermedades del aparato digestivo;UPED;PEDIATRIA GENERAL;URG;0;0;0
+823;2019-10-14;784.0;CEFALEA;CIE9;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;1;0
+824;2017-01-13;726.90;ENTESOPATIA, LUGAR NO LOCALIZADO;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+825;2015-12-11;303.90;DEPENDENCIA ALCOHOL OTRA Y NEOM.NEOM (&);CIE9;660;Trastornos relacionados con el alcohol;5;Enfermedades Mentales;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;HOS;0;0;0
+826;2016-12-23;625.8;SINTOMA ASOCIADO A ORGANO GENITAL FEMENINO.OTRO;CIE9;175;Otros trastornos genitales femeninos;10;Enfermedades del sistema genitourinario;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0
+827;2016-07-04;626.6;METRORRAGIA;CIE9;171;Trastornos menstruales;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+828;2017-02-01;N18.9;Enfermedad renal crónica, no especificada;CIE10;158;Insuficiencia renal crónica;10;Enfermedades del sistema genitourinario;CNEF;NEFROLOGIA;CEX;1;0;0
+829;2016-07-20;V25.5;INSERCION DE IMPLANTE ANTICONCEPTIVO SUBDERMICO;CIE9;176;Tratamiento anticonceptivo y procreativo;11;Complicaciones del embarazo, parto y puerperio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+830;2017-03-08;W18.30XA;Caída en el mismo nivel, no especificada, contacto inicial;CIE10;2603;Códigos E: Caída;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;HOS;0;0;0
+831;2020-11-11;N13.5;Cruce vascular y estenosis de uréter sin hidronefrosis;CIE10;161;Otras enfermedades del riñón y uréteres;10;Enfermedades del sistema genitourinario;UURO;UROLOGIA;URG;0;0;0
+832;2018-01-23;401.9;HTA NO ESPECIFICADA;CIE9;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+833;2017-05-29;N73.9;Enfermedad inflamatoria pélvica femenina, no especificada;CIE10;168;Enfermedades inflamatorias de los órganos femeninos pelvicos;10;Enfermedades del sistema genitourinario;HGIN;GINECOLOGIA;HOS;0;0;0
+834;2017-07-06;715.94;OSTEOARTROSIS SIN ESPECIF. GENERAL O LOCAL-MANO;CIE9;203;Osteoartritis;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+835;2018-08-30;799.9;CAUSA MORBILIDAD Y MORTALIDAD DESCONOCIDA.OTRA;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUR;MEDICINA URGENCIA;URG;0;0;0
+836;2021-01-28;883.0;HERIDA DEDO MANO NO COMPLICADA;CIE9;236;Heridas abiertas de extremidades;16;Lesiónes e intoxicaciones;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+837;1996-11-30;E11.9;Diabetes mellitus tipo 2 sin complicaciones;CIE10;49;Diabetes mellitus sin complicaciones;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HCOV;HOSPITALIZACION COVID;HOS;1;0;0
+838;2016-04-12;E66.2;Obesidad mórbida (severa) con hipoventilación alveolar;CIE10;58;Otros trastornos nutricionales, endocrinos y metabólicos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;ENEM;NEUMOLOGIA CESP;CEX;1;0;0
+839;2021-02-19;881.00;HERIDA ANTEBRAZO NO COMPLICADA;CIE9;236;Heridas abiertas de extremidades;16;Lesiónes e intoxicaciones;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+840;2014-04-16;V15.82;HISTORIA PERSONAL TABAQUISMO;CIE9;663;Códigos de cribaje, historia de salud mental y abuso de sustancias psicotrópicas;5;Enfermedades Mentales;HCDG;CIR DIGESTIVO;HOS;0;0;0
+841;2016-01-16;V12.51;HISTORIA PERSONAL TROMBOSIS Y EMBOLISMO VENOSO;CIE9;118;Flebitis, tromboflebitis y tromboembolismo;7;Enfermedades del aparato circulatorio;HNEM;NEUMOLOGIA;HOS;0;0;0
+842;2016-02-23;599.0;INFECCION DE VIAS URINARIAS SITIO NEOM;CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+843;2011-05-17;110.1;DERMATOFITOSIS DE UÑAS;CIE9;4;Micosis;1;Enfermedad Infecciosa y parasitaria;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+844;2017-03-07;487;GRIPE;CIE9;123;Gripe;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+845;2014-01-10;J45.909;Asma no especificada, sin complicaciones;CIE10;128;Asma;8;Enfermedades del aparato respiratorio;CNEM;NEUMOLOGIA;CEX;1;0;0
+846;2011-06-23;719.83;ENFERMEDAD ARTICULACION OTRA.MUÑECA;CIE9;204;Otros trastornos articulares no traumáticos;13;Enfermedades del sistema osteomuscular y tejido conectivo;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+847;2016-01-11;519.8;OTRAS ENF. SISTEMA RESPIRATORIO NO CLASIF. BAJO OTROS CONCEP;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+848;2019-02-11;236.2;NEOPLASIA EVOLUCION INCIERTA.OVARIO (&);CIE9;44;Neoplasias de naturaleza no especificada o comportamiento incierto;2;Neoplasias;CGIN;GINECOLOGIA;CEX;0;0;0
+849;2017-07-05;V72.85;EXAMEN ESPECIFICO OTRO.OTRO;CIE9;256;Examen y evaluación médica;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;COFT;OFTALMOLOGIA;CEX;0;0;0
+850;2017-02-21;V45.61;ESTADOS POSPOSTQUIRURGICOS DEL OJO Y ANEXOS-EXTRACCION DE CATARATAS;CIE9;91;Otros trastornos del ojo;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+851;2016-04-21;V03.7;NECESIDAD VACUNACION TETANOS;CIE9;10;Inmunizaciones y cribaje de enfermedades infecciosas;1;Enfermedad Infecciosa y parasitaria;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+852;2017-02-04;474.10;AMIGDALAS CON ADENOIDES;CIE9;124;Amigdalitis aguda y crónica;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+853;2013-10-22;709.9;ENFERMEDAD NO ESPECIFICADA DE LA PIEL Y TEJIDOS SUBCUTANEOS;CIE9;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+854;2013-11-04;Z51.5;Contacto para cuidados paliativos;CIE10;257;Otra asistencia posterior;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HNEF;NEFROLOGIA;HOS;0;0;0
+855;2007-03-02;525.3;RESTO RADICULAR RETENIDO;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;CCMX;CIR MAXILOFACIAL;CEX;0;0;0
+856;2019-02-26;652.21;PRESENTACION NALGAS SIN VERSION A CEFALICA.PARTO Y ANTEPARTO;CIE9;187;Posición defectuosa y presentación anómala;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;HOS;0;0;0
+857;2018-03-23;J18.9;Neumonía, microorganismo no especificado;CIE10;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;HCOV;HOSPITALIZACION COVID;HOS;0;0;0
+858;2020-10-14;Z71.1;Persona con temor a padecer una enfermedad, en la que no se llega a realizar un diagnóstico;CIE10;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UPED;PEDIATRIA GENERAL;URG;0;0;0
+859;2014-12-25;558.9;GASTRITIS,ENTERITIS Y COLITIS NO INFECCIOSA.OTRA Y NEOM;CIE9;154;Gastroenteritis no infecciosa;9;Enfermedades del aparato digestivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+860;2011-09-16;536.8;DISPEPSIA Y OTRAS ALTER. ESPECIF. DEL FUNCIONA. DEL ESTOMAGO;CIE9;141;Otros trastornos del estómago y duodeno;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+861;2016-08-10;I48.2;Fibrilación crónica auricular;CIE10;106;Disritmias cardíacas;7;Enfermedades del aparato circulatorio;HMIN;MEDICINA INTERNA;HOS;1;0;0
+862;2014-07-29;B97.29;Otros coronavirus como causa de enfermedades clasificadas bajo otro concepto;CIE10;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;UMUR;MEDICINA URGENCIA;URG;0;0;0
+863;2010-11-22;873.0;HERIDA ABIERTA DE CUERO CABELLUDO, SIN COMPLICACION;CIE9;235;Heridas abiertas de cabeza, cuello y tronco;16;Lesiónes e intoxicaciones;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+864;2014-06-04;465.9;INFECCION VIA AEREA SUPERIOR AGUDA.NEOM (&);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;UPED;PEDIATRIA GENERAL;URG;0;0;0
+865;2020-03-28;C44.90;Neoplasia maligna no especificada de piel, localización no especificada;CIE10;23;Otro cáncer no epitelial de piel;2;Neoplasias;CTCC;COMITE TUMORES CABEZA Y CUELLO;CEX;0;0;0
+866;2014-08-28;372.71;HIPEREMIA CONJUNTIVA;CIE9;91;Otros trastornos del ojo;6;Enfermedades del sistema nervioso y órganos de los sentidos;UOFT;OFTALMOLOGIA;URG;0;0;0
+867;2018-07-14;N40.0;Hiperplasia prostática benigna sin síntomas de tracto urinario inferior;CIE10;164;Hiperplasia de la próstata;10;Enfermedades del sistema genitourinario;EURO;UROLOGIA CESP;CEX;1;0;0
+868;2017-01-18;322.0;MENINGITIS NO PIOGENICA;CIE9;76;Meningitis (excepto la causada por tuberculosis o ETS);6;Enfermedades del sistema nervioso y órganos de los sentidos;HPIN;PEDIATRIA INFECCIOSA;HOS;0;0;0
+869;2018-02-05;486;NEUMONIA ORGANISMO NEOM (#);CIE9;122;Neumonía (excepto la  causada por tuberculosis o ETS);8;Enfermedades del aparato respiratorio;CNEM;NEUMOLOGIA;CEX;0;0;0
+870;2017-02-02;724.2;LUMBALGIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;ECOT;CIR ORTOPEDICA TRAUMA CESP;CEX;0;0;0
+871;2020-11-21;V43.64;ARTICULACION SUSTITUIDA POR PROTESIS.CADERA;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;ECOT;CIR ORTOPEDICA TRAUMA CESP;CEX;0;0;0
+872;2014-11-18;462;FARINGITIS AGUDA;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+873;2017-10-05;171.7;NEOPLASIA MALIGNA TEJIDO BLANDO.TRONCO NEOM;CIE9;21;Cáncer del hueso y tejido conjuntivo;2;Neoplasias;EDER;DERMATOLOGIA CESP;CEX;0;0;0
+874;2020-04-14;724.2;LUMBAGO;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+875;2009-05-28;919.4;PICADURA DE INSECTO SIN INFECCION-OTRO SITIO/MULTIPLES/NEOM;CIE9;239;Lesión superficial, contusion;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+876;2020-03-30;N20.1;Cálculo del uréter;CIE10;160;Cálculo de vías urinarias;10;Enfermedades del sistema genitourinario;HURO;UROLOGIA;HOS;0;0;0
+877;2019-05-30;879.6;HERIDA TRONCO OTRA Y NEOM NO COMPLICADA;CIE9;235;Heridas abiertas de cabeza, cuello y tronco;16;Lesiónes e intoxicaciones;URGE;URGENCIAS;URG;0;0;0
+878;2007-08-27;H92.20;Otorragia, oído no especificado;CIE10;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;UORL;OTORRINOLARINGOLOGIA;URG;0;0;0
+879;2019-01-08;465.9;INFEC.AGUDAS VIAS RESPIR.SUPER.LOCAL. MULT. O LOCAL. NO ESPE-LOC. NO ESP.;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+880;2019-11-21;M16.10;Artrosis primaria unilateral, cadera no especificada;CIE10;203;Osteoartritis;13;Enfermedades del sistema osteomuscular y tejido conectivo;CMIF;U MIEMBRO INFERIOR;CEX;1;0;0
+881;2021-01-21;786.3;HEMOPTISIS;CIE9;133;Otra enfermedad de las vías respiratorias inferiores;8;Enfermedades del aparato respiratorio;UMUR;MEDICINA URGENCIA;URG;0;0;0
+882;2019-07-10;464.10;TRAQUEITIS AGUDA SIN MENCION DE OBSTRUCCION;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+883;2021-06-22;599.0;INFECCION DE VIAS URINARIAS SITIO NEOM;CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+884;2019-11-13;780.2;SINCOPE Y COLAPSO;CIE9;245;Síncope;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMUR;MEDICINA URGENCIA;URG;0;1;0
+885;2018-12-20;Z51.11;Contacto para quimioterapia antineoplásica;CIE10;45;Quimioterapia y radioterapia;2;Neoplasias;HHEM;HEMATOLOGIA Y HEMOTERAPIA;HOS;1;0;0
+886;2019-10-09;V07.1;NECESIDAD DESENSIBILIZACION ALERGENO;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;CALE;ALERGOLOGIA;CEX;0;0;0
+887;2016-05-20;929.9;LESION POR APLASTAMIENTO DE SITIO NO ESPECIFICADO;CIE9;234;Traumatismo o lesión interna por aplastamiento;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+888;2016-09-20;845.10;ESGUINCE PIE.NEOM;CIE9;232;Esguinces y torceduras;16;Lesiónes e intoxicaciones;CTRA;U TRAUMATOLOGIA/FRACTURAS;CEX;0;0;0
+889;2016-11-09;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+890;2018-05-21;711.88;ARTRITIS EN INFECCION Y PARASITOSIS OTRA.OTRA (/)(&);CIE9;201;Artritis y osteomielitis infecciosa (excepto la causada por tuberculosis o ETS);13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+891;2008-10-21;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+892;2020-12-12;I11.0;Enfermedad cardíaca hipertensiva con insuficiencia cardiaca;CIE10;99;Hipertensión con complicaciones e hipertensión secundaria;7;Enfermedades del aparato circulatorio;HMDH;HEPATOLOGIA;HOS;1;0;0
+893;2017-09-12;E11.9;Diabetes mellitus tipo 2 sin complicaciones;CIE10;49;Diabetes mellitus sin complicaciones;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HCVA;ANGIOLOGIA Y CIR VASCULAR;HOS;1;0;0
+894;2016-08-18;525.3;RESTO RADICULAR RETENIDO;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;CCMX;CIR MAXILOFACIAL;CEX;0;0;0
+895;2013-12-15;790.92;PERFIL ANORMAL DE COAGULACION;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+896;2014-05-22;F17.200;Dependencia de nicotina no especificada, sin complicaciones;CIE10;661;Trastornos relacionados con sustancias psicotrópicas;5;Enfermedades Mentales;HNEM;NEUMOLOGIA;HOS;1;0;0
+897;2018-06-13;I48.91;Fibrilación auricular no especificada;CIE10;106;Disritmias cardíacas;7;Enfermedades del aparato circulatorio;CUHT;UNIDAD HEMOSTASIA Y TROMBOSIS;CEX;1;0;0
+898;2006-07-23;789.06;DOLOR ABDOMINAL EPIGASTRICO;CIE9;251;Dolor abdominal;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+899;2017-02-02;726.90;ENTESOPATIA NEOM NO LOCALIZADA;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+900;2001-09-22;464.20;LARINGOTRAQUEITIS AGUDA SIN MENCION DE OBSTRUCCION;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+901;2021-01-29;813.81;FRACTURA CERRADA RADIO NEOM;CIE9;229;Fractura de miembro superior;16;Lesiónes e intoxicaciones;COTI;CIR ORTOPEDICA Y TRAUMA INFANT;CEX;0;0;0
+902;2021-02-17;J00;Nasofaringitis aguda [resfriado común];CIE10;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;CNMS;U TRAST RESPIRATORIOS DE SUEÑO;CEX;0;1;0
+903;2011-05-30;Z53.8;Procedimiento y tratamiento no realizados por otras razones;CIE10;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;CREU;REUMATOLOGIA;CEX;0;0;0
+904;2014-12-20;644.13;AMENAZA PARTO OTRA.ANTEPARTO;CIE9;184;Parto prematuro o amenaza de parto prematuro;11;Complicaciones del embarazo, parto y puerperio;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0
+905;2016-12-28;789.00;DOLOR ABDOMEN.NEOM;CIE9;251;Dolor abdominal;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMUR;MEDICINA URGENCIA;URG;0;0;0
+906;2017-06-27;799.9;CAUSA MORBILIDAD Y MORTALIDAD DESCONOCIDA.OTRA;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUR;MEDICINA URGENCIA;URG;0;0;0
+907;2014-03-26;M17.11;Artrosis primaria unilateral, rodilla derecha;CIE10;203;Osteoartritis;13;Enfermedades del sistema osteomuscular y tejido conectivo;CRHB;REHABILITACION;CEX;1;0;0
+908;2016-02-03;216.9;N. BENIGNA DE PIEL SITIO NO ESPECIFICADO;CIE9;47;Otras neoplasias benigna y neoplasias benigna no especificadas;2;Neoplasias;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+909;2021-05-22;G44.209;Cefalea tensional, no especificada, no intratable;CIE10;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;UMUR;MEDICINA URGENCIA;URG;1;0;0
+910;2016-05-11;I10;Hipertensión esencial (primaria);CIE10;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;HOFT;OFTALMOLOGIA;CMA;1;0;0
+911;2018-12-27;708.9;URTICARIA.NEOM;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UPED;PEDIATRIA GENERAL;URG;0;0;0
+912;2019-01-17;708.9;URTICARIA NO ESPECIFICADA;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+913;2018-07-08;E78.5;Hiperlipidemia, no especificada;CIE10;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HCVA;ANGIOLOGIA Y CIR VASCULAR;HOS;1;0;0
+914;2018-05-28;603.9;HIDROCELE.NEOM;CIE9;166;Otros trastornos genitales masculinos;10;Enfermedades del sistema genitourinario;UURO;UROLOGIA;URG;0;0;0
+915;2019-07-08;995.1;EDEMA ANGIONEUROTICO;CIE9;244;Otras lesiones y afecciones debidas a causas externas;16;Lesiónes e intoxicaciones;CALE;ALERGOLOGIA;CEX;0;0;0
+916;2020-12-04;605;FIMOSIS (#);CIE9;166;Otros trastornos genitales masculinos;10;Enfermedades del sistema genitourinario;UMUR;MEDICINA URGENCIA;URG;0;0;0
+917;2014-04-16;V62.9;CIRCUNSTANCIA PSICOSOCIAL NO ESPECIFICADA;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+918;2017-07-11;414.9;ENFERMEDAD CARDIACA ISQUEMICA CRONICA.NEOM;CIE9;101;Aterosclerosis coronaria y otras cardiopatías;7;Enfermedades del aparato circulatorio;HNEF;NEFROLOGIA;HOS;0;0;0
+919;2017-05-22;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+920;2000-08-13;786.51;DOLOR PRECORDIAL;CIE9;102;Dolor torácico no específicado;7;Enfermedades del aparato circulatorio;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+921;2017-10-23;369.9;PERDIDA VISION NEOM;CIE9;89;Ceguera y defectos de la visión;6;Enfermedades del sistema nervioso y órganos de los sentidos;UOFT;OFTALMOLOGIA;URG;0;0;0
+922;2015-06-01;708.9;URTICARIA.NEOM;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UPED;PEDIATRIA GENERAL;URG;0;0;0
+923;2016-09-25;474.11;AMIGDALAS SOLO;CIE9;124;Amigdalitis aguda y crónica;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+924;2014-06-02;599.0;INFECCION DE VIAS URINARIAS SITIO NEOM;CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+925;2007-07-07;733.90;ENFERMEDAD HUESO Y CARTILAGO NEOM;CIE9;212;Otra enfermedad ósea o deformidad osteomuscular;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+926;2020-01-24;463;AMIGDALITIS AGUDA;CIE9;124;Amigdalitis aguda y crónica;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+927;2021-02-10;789.0;DOLOR ABDOMINAL;CIE9;251;Dolor abdominal;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+928;2019-05-13;H54.0;Ceguera, ambos ojos;CIE10;89;Ceguera y defectos de la visión;6;Enfermedades del sistema nervioso y órganos de los sentidos;HNCG;NEUROCIRUGIA;HOS;1;0;0
+929;2015-03-24;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+930;2017-11-07;V43.65;ARTICULACION SUSTITUIDA POR PROTESIS.RODILLA;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;HOS;0;0;0
+931;2020-11-03;465.8;OTRAS LOCALIZACIONES MULTIPLES DE INF.RESPIRATORIA VIA SUPER;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+932;2019-09-28;M41.9;Escoliosis no especificada;CIE10;209;Otras deformidades adquiridas;13;Enfermedades del sistema osteomuscular y tejido conectivo;CRHI;REHABILITACION INFANTIL;CEX;1;0;0
+933;2016-05-26;780.4;VERTIGO Y MAREO;CIE9;93;Afecciones asociadas con mareo o vértigo;6;Enfermedades del sistema nervioso y órganos de los sentidos;UORL;OTORRINOLARINGOLOGIA;URG;0;0;0
+934;2015-01-30;N18.9;Enfermedad renal crónica, no especificada;CIE10;158;Insuficiencia renal crónica;10;Enfermedades del sistema genitourinario;HUEI;U ENFERMEDADES INFECCIOSAS;HOS;1;0;0
+935;2018-09-06;E78.4;Otros tipos de hiperlipidemia;CIE10;53;Trastornos del metabolismo lipídico;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;HURO;UROLOGIA;CMA;1;0;0
+936;2018-03-23;780.6;FIEBRE Y OTROS TRASTORNOS FISIOLOGICOS DE LA REGULACION DE L;CIE9;246;Fiebre de origen desconocido;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UHEM;HEMATOLOGIA Y HEMOTERAPIA;URG;0;1;0
+937;2008-01-29;Z59.3;Problemas relacionados con la vida en una institución residencial;CIE10;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HMIN;MEDICINA INTERNA;HOS;0;0;0
+938;2018-10-29;V82.9;CRIBA ESPECIAL ENFERMEDAD.NEOM;CIE9;258;Otros cribajes por sospecha de enfermedad (se excluyen  trastornos mentales y enfermedades infecciosas);17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMIN;MEDICINA INTERNA;URG;0;0;0
+939;2015-12-09;709.9;ENFERMEDAD PIEL Y SUBCUTANEO.NEOM;CIE9;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+940;2018-04-14;V64.3;PROCEDIMIENTO NO REALIZADO POR OTROS MOTIVOS;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+941;2019-03-05;K92.2;Hemorragia gastrointestinal, no especificada;CIE10;153;Hemorragia del aparato digestivo;9;Enfermedades del aparato digestivo;HREA;REANIMACION;HOS;0;0;0
+942;2011-01-05;789.00;DOLOR ABDOMEN.NEOM;CIE9;251;Dolor abdominal;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMUR;MEDICINA URGENCIA;URG;0;0;0
+943;2014-04-01;V68.81;ENVIO PACIENTE OTRO FACULTATIVO SIN EXAMEN Y TRATAMIENTO;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;CDER;DERMATOLOGIA;CEX;0;0;0
+944;2014-03-27;596.54;VEJIGA NEUROGENICA NEOM;CIE9;162;Otras enfermedades de la vejiga urinaria y uretra;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+945;2020-11-23;K44.9;Hernia diafragmática sin obstrucción ni gangrena;CIE10;143;Hernia abdominal;9;Enfermedades del aparato digestivo;HNEM;NEUMOLOGIA;HOS;0;0;0
+946;2019-09-23;825.25;FRACTURA CERRADA METATARSIANO;CIE9;230;Fractura de miembro inferior;16;Lesiónes e intoxicaciones;UCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;URG;0;0;0
+947;2018-12-04;606.0;AZOOSPERMIA;CIE9;166;Otros trastornos genitales masculinos;10;Enfermedades del sistema genitourinario;CURO;UROLOGIA;CEX;0;0;0
+948;2015-06-15;380.4;CERUMEN IMPACTADO;CIE9;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+949;2016-01-18;780.4;VERTIGO Y MAREO;CIE9;93;Afecciones asociadas con mareo o vértigo;6;Enfermedades del sistema nervioso y órganos de los sentidos;ENER;NEUROLOGIA CESP;CEX;0;0;0
+950;1999-02-18;Z67.20;Grupo sanguíneo B, Rh positivo;CIE10;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HOBS;OBSTETRICIA;HOS;0;0;0
+951;2018-12-13;523.1;GINGIVITIS CRONICA;CIE9;136;Trastornos de los dientes y mandíbula;9;Enfermedades del aparato digestivo;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+952;2020-12-21;307.59;TRASTORNO PSICOPATOLOGICO ALIMENTACION.OTRO (I);CIE9;670;Trastornos mentales misceláneos;5;Enfermedades Mentales;UPED;PEDIATRIA GENERAL;URG;0;0;0
+953;2018-05-09;425.4;OTRAS MIOCARDIOPATIAS PRIMARIAS;CIE9;97;Peri, endo y miocarditis y miocardiopatía (excepto la  causada por tuberculosis o ETS);7;Enfermedades del aparato circulatorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+954;2016-09-02;Z03.818;Contacto para observación por sospecha de exposición a otros agentes biológicos descartada;CIE10;10;Inmunizaciones y cribaje de enfermedades infecciosas;1;Enfermedad Infecciosa y parasitaria;UMUR;MEDICINA URGENCIA;URG;0;0;0
+955;2020-02-04;727.1;JUANETE;CIE9;208;Deformidades adquiridas del pie;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+956;2009-11-19;F17.210;Dependencia de nicotina, cigarrillos, sin complicaciones;CIE10;661;Trastornos relacionados con sustancias psicotrópicas;5;Enfermedades Mentales;HCDG;CIR DIGESTIVO;HOS;1;0;0
+957;2018-12-30;Z01.419;Contacto para reconocimiento ginecológico (general) (de rutina) sin resultados anómalos;CIE10;256;Examen y evaluación médica;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;EGIN;GINECOLOGIA CESP;CEX;0;0;0
+958;2019-05-27;K40.20;Hernia inguinal bilateral, sin obstrucción ni gangrena, no especificada como recidivada;CIE10;143;Hernia abdominal;9;Enfermedades del aparato digestivo;HCEP;CIR CORTA ESTANCIA Y PARED;HOS;0;0;0
+959;2017-05-09;945.20;QUEMADURA DE 2§ GRADO DE SITIO NEOM DE PIERNA;CIE9;240;Quemaduras;16;Lesiónes e intoxicaciones;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+960;2014-07-13;715.16;OSTEOARTROSIS LOCALIZADA PRIMARIA.RODILLA;CIE9;203;Osteoartritis;13;Enfermedades del sistema osteomuscular y tejido conectivo;CMIF;U MIEMBRO INFERIOR;CEX;0;0;0
+961;2010-06-24;V45.77;AUSENCIA ADQUIRIDA ORGANO GENITAL;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;HOS;0;0;0
+962;2019-07-23;T82.191A;Otra complicación mecánica de generador de impulsos cardiacos (batería), contacto inicial;CIE10;237;Complicación de dispositivo, implante o injerto;16;Lesiónes e intoxicaciones;HMUR;U DE CORTA ESTANCIA;HOS;0;0;1
+963;2013-07-26;724.5;DOLOR DE ESPALDA NO ESPECIFICADO;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+964;2018-02-28;460;NASOFARINGITIS AGUDA (RESFRIADO COMUN);CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+965;2018-12-12;780.99;SINTOMA GENERAL.OTRO;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;UMUR;MEDICINA URGENCIA;URG;0;0;0
+966;2017-04-18;L82.1;Otros tipos de queratosis seborreica;CIE10;200;Otros trastornos de la piel;12;Enfermedades de la piel y tejido subcutáneo;CDER;DERMATOLOGIA;CEX;0;0;0
+967;2012-07-31;V14.8;HISTORIA PERSONAL ALERGIA MEDICAMENTO.OTRO;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;HCOT;CIR ORTOPEDICA Y TRAUMATOLOGIA;HOS;0;0;0
+968;2019-03-21;112.1;CANDIDIASIS VULVAR Y VAGINAL;CIE9;4;Micosis;1;Enfermedad Infecciosa y parasitaria;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+969;2017-03-30;R60.0;Edema localizado;CIE10;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;HNEM;NEUMOLOGIA;HOS;0;0;0
+970;2014-10-24;723.1;CERVICALGIA;CIE9;205;Espondilosis, trastornos del disco intervertebral y otros problemas de la espalda;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+971;2013-06-08;380.4;CERUMEN IMPACTADO;CIE9;94;Otros trastornos del oído y de los órganos de los sentidos;6;Enfermedades del sistema nervioso y órganos de los sentidos;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+972;2014-05-22;784.0;CEFALEA;CIE9;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;UPED;PEDIATRIA GENERAL;URG;0;1;0
+973;2014-10-03;F41.9;Trastorno de ansiedad, no especificado;CIE10;651;Trastornos por ansiedad;5;Enfermedades Mentales;HCDG;CIR DIGESTIVO;CMA;1;0;0
+974;2009-04-15;401.9;HIPERTENSION ESENCIAL.NEOM;CIE9;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;HCTA;CIRUGIA ORTOPEDICA Y TRAUMA A;HOS;0;0;0
+975;2019-05-29;I10;Hipertensión esencial (primaria);CIE10;98;Hipertensión esencial;7;Enfermedades del aparato circulatorio;HURO;UROLOGIA;CMA;1;0;0
+976;2011-10-03;995.3;ALERGIA, SIN ESPECIFICAR;CIE9;253;Reacciones alérgicas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+977;2006-01-30;034.0;ANGINA POR ESTREPTOCOCO;CIE9;126;Otras infecciones de las vías respiratorias superiores;8;Enfermedades del aparato respiratorio;HNFI;NEFROLOGIA INFANTIL;HOS;0;1;0
+978;2018-01-26;M15.0;Artrosis primaria generalizada;CIE10;203;Osteoartritis;13;Enfermedades del sistema osteomuscular y tejido conectivo;HMUR;U DE CORTA ESTANCIA;HOS;1;0;0
+979;2001-05-09;659.63;MULTIGRAVIDA EDAD AVANZADA.ANTEPARTO;CIE9;195;Otras complicaciones del nacimiento y puerperio que afectan al tratamiento de la madre;11;Complicaciones del embarazo, parto y puerperio;HOBS;OBSTETRICIA;CMA;0;0;0
+980;2014-02-24;V72.85;EXAMEN ESPECIFICO OTRO.OTRO;CIE9;256;Examen y evaluación médica;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;CDER;DERMATOLOGIA;CEX;0;0;0
+981;2020-11-10;558.9;OTRAS GASTROENTERITIS Y COLITIS NO INFEC. Y NO ESPECIFICADAS;CIE9;154;Gastroenteritis no infecciosa;9;Enfermedades del aparato digestivo;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+982;2017-01-11;V45.71;AUSENCIA ADQUIRIDA MAMA;CIE9;259;Códigos residuales, no clasificados;18;Códigos residuales, no clasificados y todos los códigos E 259 y 260;CCPL;CIR PLASTICA;CEX;0;0;0
+983;2017-06-05;726.73;ESPOLON CALCANEO;CIE9;211;Otra enfermedad del tejido conectivo;13;Enfermedades del sistema osteomuscular y tejido conectivo;UMUR;MEDICINA URGENCIA;URG;0;0;0
+984;2018-04-05;I20.8;Otras formas de angina de pecho;CIE10;101;Aterosclerosis coronaria y otras cardiopatías;7;Enfermedades del aparato circulatorio;CCAR;CARDIOLOGIA;CEX;1;0;0
+985;2021-03-15;789.0;DOLOR ABDOMINAL;CIE9;251;Dolor abdominal;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;UMUR;MEDICINA URGENCIA;URG;0;0;0
+986;2019-02-12;281.9;ANEMIA POR CARENCIA NEOM;CIE9;59;Anemias carenciales y otras;4;Enfermedades de la sangre y órganos hematopoyéticos;UMUC;URGENCIAS CAMPANAR;URG;0;0;0
+987;2004-05-25;B97.29;Otros coronavirus como causa de enfermedades clasificadas bajo otro concepto;CIE10;7;Otras infecciones víricas;1;Enfermedad Infecciosa y parasitaria;HNEM;NEUMOLOGIA;HOS;0;0;0
+988;2017-12-28;784.0;CEFALEA;CIE9;84;Cefalea incluida la migraña;6;Enfermedades del sistema nervioso y órganos de los sentidos;UPED;PEDIATRIA GENERAL;URG;0;1;0
+989;2019-01-19;V20.2;CONTROL SALUD RUTINARIO DEL BEBE O NIÑO;CIE9;255;Ingresos por causas sociales y administrativas;17;Síntomas, signos, condiciones mal definidas y factores que influyen en el estado de salud;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+990;2021-07-22;791.0;PROTEINURIA;CIE9;163;Síntomas genitourinarios y afecciones mal definidas;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+991;2016-11-09;288.00;NEUTROPENIA.NEOM (&);CIE9;63;Enfermedades leucocitarias;4;Enfermedades de la sangre y órganos hematopoyéticos;CHEM;HEMATOLOGIA Y HEMOTERAPIA;CEX;0;0;0
+992;2016-07-22;J20.9;Bronquitis aguda, no especificada;CIE10;125;Bronquitis aguda;8;Enfermedades del aparato respiratorio;HMIN;MEDICINA INTERNA;HOS;0;0;0
+993;2010-09-12;331.0;ENFERMEDAD DE ALZHEIMER;CIE9;653;Demencia con delirium, trastornos amnésicos y otros trastornos cognitivos;5;Enfermedades Mentales;ENER;NEUROLOGIA CESP;CEX;0;0;0
+994;2007-12-16;535.4;OTRAS GASTRITIS ESPECIFICADAS;CIE9;140;Gastritis y duodenitis;9;Enfermedades del aparato digestivo;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+995;2014-09-23;787.20;DISFAGIA.NEOM;CIE9;155;Otros trastornos del aparato digestivo;9;Enfermedades del aparato digestivo;UPED;PEDIATRIA GENERAL;URG;0;0;0
+996;2013-07-29;278.00;OBESIDAD INESPECIFICA;CIE9;58;Otros trastornos nutricionales, endocrinos y metabólicos;3;Enfermedades endocrinas, nutricionales y metabólicas y trastornos de inmunidad;PAP;PEDIATRIA A. PRIMARIA;APRIMARIA;0;0;0
+997;2019-02-06;V13.02;HISTORIA PERSONAL DE INFECCION (TRACTO) URINARIA (0);CIE9;163;Síntomas genitourinarios y afecciones mal definidas;10;Enfermedades del sistema genitourinario;MFC;MEDICINA FAMILIAR;APRIMARIA;0;0;0
+998;2019-01-02;V26.52;ESTADO VASECTOMIA;CIE9;176;Tratamiento anticonceptivo y procreativo;11;Complicaciones del embarazo, parto y puerperio;CURO;UROLOGIA;CEX;0;0;0
+999;2016-07-11;599.0;INFECCION TRACTO URINARIO NEOM (&);CIE9;159;Infecciones de vías urinarias;10;Enfermedades del sistema genitourinario;UOBG;URGENCIAS OBS-GINECOLOGICAS;URG;0;0;0

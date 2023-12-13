@@ -1,0 +1,1 @@
+Give me python code to read $dataset as csv named "test.csv", apply $map and insert it in the $scheme.table. You may need to apply an operation transformation operations to map the information in the table correctly, such as joining or separating columns, whether they are strings, dates or numbers. If any column data does not appear, insert a null in that field.

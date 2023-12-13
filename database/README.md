@@ -1,0 +1,2 @@
+## `database`
+This directory contains the files related to the database. In this directory, you can find the scripts that create the SQL schema and the tables of the database for each domain (educational and health). In addition, a pdf file with the logical schema of the database is included to facilitate the understanding and visualisation of the schema.
