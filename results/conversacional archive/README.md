@@ -1,4 +1,4 @@
-# `conversacional archive`
+# `conversational archive`
 
 The directory contains a pdf document that provides the html links for each of the experiments to show the full interaction with the LLM model. For each of them, you can see both the actual input and outputs of the model and which were evaluated.
 
