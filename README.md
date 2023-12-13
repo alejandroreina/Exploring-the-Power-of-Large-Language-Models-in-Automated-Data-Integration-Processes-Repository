@@ -10,7 +10,7 @@ Alternatively, you can clone the repository and restructure as necessary. Via
 the command line,
 
 ```
-> git clone git@github.com:areina/llm_for_data_integration
+> git clone git@github.com:alejandroreina/Exploring-the-Semantic-of-Large-Language-Models-in-Automated-Data-Integration-Processes
 ```
 
 ### **`data`** 
@@ -48,35 +48,3 @@ The content in this section goes beyond what is covered in the cited paper. It o
 #### Results Tables
 - In addition to the conversations, this section includes various tables that present the results obtained from our experiments. These tables are designed to provide a clear and concise representation of the data, making it easier to understand and analyze the performance of the LLMs.
 
-
-## Citation
-Please cite the datasets as follows:
-- Educational Domain: [Generalitat Valenciana's open data portal, 2023].
-- Medical Domain: [La Fe Hospital Database].
-
-### Required Files
-There are some files which I consider to be mandatory for any project.
-
-1. **`LICENSE`**: A legal protection of your work. *It is important to think deeply about the licensing of your work, and is not a decision to be made lightly. See [this useful site](https://choosealicense.com/) for more information about licensing and choosing the correct license for your project.*
-
-2. **`README.md`**: A descriptive yet succinct description of your research project and information regarding the structure outlined below.
-
-# License Information
-
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
-  <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
-  </a>
-  <br />
-  To the extent possible under law,
-  <a rel="dct:publisher"
-     href="github.com/gchure/reproducible_research">
-    <span property="dct:title">Griffin Chure</span></a>
-  has waived all copyright and related or neighboring rights to
-  <span property="dct:title">A template for using git as a platform for reproducible scientific research</span>.
-This work is published from:
-<span property="vcard:Country" datatype="dct:ISO3166"
-      content="US" about="github.com/gchure/reproducible_research">
-  United States</span>.
-</p>
