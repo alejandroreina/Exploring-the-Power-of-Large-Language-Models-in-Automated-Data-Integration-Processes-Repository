@@ -1,4 +1,4 @@
-# Exploring the Semantic of Large Language Models in Automated Data Integration Processes 
+# Exploring the Power of Large Language Models in Automated Data Integration Processes 
 
 ## Overview
 This work is presented in the context of DOLAP'24: 26th International Workshop on Design, Optimization, Languages and Analytical Processing of Big Data. The repository is dedicated to providing the necessary data and resources for replicating and understanding the experiment conducted to analyze the applicability of LLMs in automatic data integration. Its goal is to serve as a comprehensive database and resource hub for validating and extending the results presented in the article. The datasets, experiment code, and results are organized in a manner that facilitates comprehension and reproduction by other researchers interested in automatic data integration using LLMs. 
