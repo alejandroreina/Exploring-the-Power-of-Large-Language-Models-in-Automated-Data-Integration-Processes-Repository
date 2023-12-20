@@ -1,0 +1,9 @@
+Domain,Model,Type,Case 1,Case 2,Case 3,Case 4
+Education,GPT-3.5,Codes,100,83.33,100,100
+Education,GPT-3.5,Description,100,100,100,83.33
+Education,GPT-4,Codes,100,83.33,100,100
+Education,GPT-4,Description,100,95.83,94.44,100
+Healthcare,GPT-3.5,Codes,100,11.11,41.67,30.56
+Healthcare,GPT-3.5,Description,93.94,60.61,33.33,39.39
+Healthcare,GPT-4,Codes,97.22,5.56,75,66.67
+Healthcare,GPT-4,Description,100,63.63,91.67,87.88
