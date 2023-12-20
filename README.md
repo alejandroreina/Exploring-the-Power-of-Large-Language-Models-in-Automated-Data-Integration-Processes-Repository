@@ -46,5 +46,5 @@ The content in this section goes beyond what is covered in the cited paper. It o
 - One of the key features of this section is the access to the evaluated conversations from our experimentation. These conversations showcase the interactions between the LLMs and the experimental setup, offering insights into the model's processing and response capabilities in different scenarios.
 
 #### Results Tables
-- In addition to the conversations, this section includes various tables that present the results obtained from our experiments. These tables are designed to provide a clear and concise representation of the data, making it easier to understand and analyze the performance of the LLMs.
+- In addition to the conversations, this section includes various images that present the results obtained from our experiments. These images are designed to provide a clear and concise representation of the results, making it easier to understand and analyze the performance of the LLMs.
 
