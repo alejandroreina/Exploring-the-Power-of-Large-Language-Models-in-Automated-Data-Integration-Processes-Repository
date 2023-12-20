@@ -1,6 +1,8 @@
 ## `results`
 
-In this directory, you can find the conversational outputs in HTML format resulting from the execution of the model for various cases and models included in the experimentation (GPT-3.5 and GPT-4.0). The directory also contains different tables and images presenting the results and comparisons of the experimentation on the different models and experiments. 
+In this directory, you can find the conversational outputs in HTML format resulting from the execution of the model for various cases and models included in the experimentation (GPT-3.5 and GPT-4.0). The directory also contains different images in pdf format presenting the results and comparisons of the experimentation on the different models and experiments.
+
+Below, we show a table with the results obtained for the different cases carried out in the experimentation by domain and data type (code or description) for the different LLM models used (Gpt-3.5 and GPT-4.0).
 
 <table class="table table-bordered table-hover table-condensed">
 <thead><tr><th title="Field #1">Domain</th>
